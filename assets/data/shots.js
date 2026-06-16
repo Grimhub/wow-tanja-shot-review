@@ -10,6 +10,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/001-TANJA_SUBOTIC_JUNE_2026_SHOT_01_009.webp",
+    "highres": "assets/highres/001-TANJA_SUBOTIC_JUNE_2026_SHOT_01_009.webp",
     "thumb": "assets/thumb/001-TANJA_SUBOTIC_JUNE_2026_SHOT_01_009.webp"
   },
   {
@@ -23,6 +24,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/002-TANJA_SUBOTIC_JUNE_2026_SHOT_01_014.webp",
+    "highres": "assets/highres/002-TANJA_SUBOTIC_JUNE_2026_SHOT_01_014.webp",
     "thumb": "assets/thumb/002-TANJA_SUBOTIC_JUNE_2026_SHOT_01_014.webp"
   },
   {
@@ -36,6 +38,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/003-TANJA_SUBOTIC_JUNE_2026_SHOT_01_026.webp",
+    "highres": "assets/highres/003-TANJA_SUBOTIC_JUNE_2026_SHOT_01_026.webp",
     "thumb": "assets/thumb/003-TANJA_SUBOTIC_JUNE_2026_SHOT_01_026.webp"
   },
   {
@@ -49,6 +52,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/004-TANJA_SUBOTIC_JUNE_2026_SHOT_01_027.webp",
+    "highres": "assets/highres/004-TANJA_SUBOTIC_JUNE_2026_SHOT_01_027.webp",
     "thumb": "assets/thumb/004-TANJA_SUBOTIC_JUNE_2026_SHOT_01_027.webp"
   },
   {
@@ -62,6 +66,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/005-TANJA_SUBOTIC_JUNE_2026_SHOT_01_028.webp",
+    "highres": "assets/highres/005-TANJA_SUBOTIC_JUNE_2026_SHOT_01_028.webp",
     "thumb": "assets/thumb/005-TANJA_SUBOTIC_JUNE_2026_SHOT_01_028.webp"
   },
   {
@@ -75,6 +80,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/006-TANJA_SUBOTIC_JUNE_2026_SHOT_01_038.webp",
+    "highres": "assets/highres/006-TANJA_SUBOTIC_JUNE_2026_SHOT_01_038.webp",
     "thumb": "assets/thumb/006-TANJA_SUBOTIC_JUNE_2026_SHOT_01_038.webp"
   },
   {
@@ -88,6 +94,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/007-TANJA_SUBOTIC_JUNE_2026_SHOT_01_041.webp",
+    "highres": "assets/highres/007-TANJA_SUBOTIC_JUNE_2026_SHOT_01_041.webp",
     "thumb": "assets/thumb/007-TANJA_SUBOTIC_JUNE_2026_SHOT_01_041.webp"
   },
   {
@@ -101,6 +108,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/008-TANJA_SUBOTIC_JUNE_2026_SHOT_01_045.webp",
+    "highres": "assets/highres/008-TANJA_SUBOTIC_JUNE_2026_SHOT_01_045.webp",
     "thumb": "assets/thumb/008-TANJA_SUBOTIC_JUNE_2026_SHOT_01_045.webp"
   },
   {
@@ -114,6 +122,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/009-TANJA_SUBOTIC_JUNE_2026_SHOT_01_048.webp",
+    "highres": "assets/highres/009-TANJA_SUBOTIC_JUNE_2026_SHOT_01_048.webp",
     "thumb": "assets/thumb/009-TANJA_SUBOTIC_JUNE_2026_SHOT_01_048.webp"
   },
   {
@@ -127,6 +136,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/010-TANJA_SUBOTIC_JUNE_2026_SHOT_01_057.webp",
+    "highres": "assets/highres/010-TANJA_SUBOTIC_JUNE_2026_SHOT_01_057.webp",
     "thumb": "assets/thumb/010-TANJA_SUBOTIC_JUNE_2026_SHOT_01_057.webp"
   },
   {
@@ -140,6 +150,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/011-TANJA_SUBOTIC_JUNE_2026_SHOT_01_071.webp",
+    "highres": "assets/highres/011-TANJA_SUBOTIC_JUNE_2026_SHOT_01_071.webp",
     "thumb": "assets/thumb/011-TANJA_SUBOTIC_JUNE_2026_SHOT_01_071.webp"
   },
   {
@@ -153,6 +164,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/012-TANJA_SUBOTIC_JUNE_2026_SHOT_01_073.webp",
+    "highres": "assets/highres/012-TANJA_SUBOTIC_JUNE_2026_SHOT_01_073.webp",
     "thumb": "assets/thumb/012-TANJA_SUBOTIC_JUNE_2026_SHOT_01_073.webp"
   },
   {
@@ -166,6 +178,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/013-TANJA_SUBOTIC_JUNE_2026_SHOT_01_074.webp",
+    "highres": "assets/highres/013-TANJA_SUBOTIC_JUNE_2026_SHOT_01_074.webp",
     "thumb": "assets/thumb/013-TANJA_SUBOTIC_JUNE_2026_SHOT_01_074.webp"
   },
   {
@@ -179,6 +192,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/014-TANJA_SUBOTIC_JUNE_2026_SHOT_01_077.webp",
+    "highres": "assets/highres/014-TANJA_SUBOTIC_JUNE_2026_SHOT_01_077.webp",
     "thumb": "assets/thumb/014-TANJA_SUBOTIC_JUNE_2026_SHOT_01_077.webp"
   },
   {
@@ -192,6 +206,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/015-TANJA_SUBOTIC_JUNE_2026_SHOT_01_091.webp",
+    "highres": "assets/highres/015-TANJA_SUBOTIC_JUNE_2026_SHOT_01_091.webp",
     "thumb": "assets/thumb/015-TANJA_SUBOTIC_JUNE_2026_SHOT_01_091.webp"
   },
   {
@@ -205,6 +220,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/016-TANJA_SUBOTIC_JUNE_2026_SHOT_01_095.webp",
+    "highres": "assets/highres/016-TANJA_SUBOTIC_JUNE_2026_SHOT_01_095.webp",
     "thumb": "assets/thumb/016-TANJA_SUBOTIC_JUNE_2026_SHOT_01_095.webp"
   },
   {
@@ -218,6 +234,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/017-TANJA_SUBOTIC_JUNE_2026_SHOT_01_098.webp",
+    "highres": "assets/highres/017-TANJA_SUBOTIC_JUNE_2026_SHOT_01_098.webp",
     "thumb": "assets/thumb/017-TANJA_SUBOTIC_JUNE_2026_SHOT_01_098.webp"
   },
   {
@@ -231,6 +248,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/018-TANJA_SUBOTIC_JUNE_2026_SHOT_01_099.webp",
+    "highres": "assets/highres/018-TANJA_SUBOTIC_JUNE_2026_SHOT_01_099.webp",
     "thumb": "assets/thumb/018-TANJA_SUBOTIC_JUNE_2026_SHOT_01_099.webp"
   },
   {
@@ -244,6 +262,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/019-TANJA_SUBOTIC_JUNE_2026_SHOT_01_101.webp",
+    "highres": "assets/highres/019-TANJA_SUBOTIC_JUNE_2026_SHOT_01_101.webp",
     "thumb": "assets/thumb/019-TANJA_SUBOTIC_JUNE_2026_SHOT_01_101.webp"
   },
   {
@@ -257,6 +276,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/020-TANJA_SUBOTIC_JUNE_2026_SHOT_01_102.webp",
+    "highres": "assets/highres/020-TANJA_SUBOTIC_JUNE_2026_SHOT_01_102.webp",
     "thumb": "assets/thumb/020-TANJA_SUBOTIC_JUNE_2026_SHOT_01_102.webp"
   },
   {
@@ -270,6 +290,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/021-TANJA_SUBOTIC_JUNE_2026_SHOT_01_114.webp",
+    "highres": "assets/highres/021-TANJA_SUBOTIC_JUNE_2026_SHOT_01_114.webp",
     "thumb": "assets/thumb/021-TANJA_SUBOTIC_JUNE_2026_SHOT_01_114.webp"
   },
   {
@@ -283,6 +304,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/022-TANJA_SUBOTIC_JUNE_2026_SHOT_01_128.webp",
+    "highres": "assets/highres/022-TANJA_SUBOTIC_JUNE_2026_SHOT_01_128.webp",
     "thumb": "assets/thumb/022-TANJA_SUBOTIC_JUNE_2026_SHOT_01_128.webp"
   },
   {
@@ -296,6 +318,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/023-TANJA_SUBOTIC_JUNE_2026_SHOT_01_136.webp",
+    "highres": "assets/highres/023-TANJA_SUBOTIC_JUNE_2026_SHOT_01_136.webp",
     "thumb": "assets/thumb/023-TANJA_SUBOTIC_JUNE_2026_SHOT_01_136.webp"
   },
   {
@@ -309,6 +332,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/024-TANJA_SUBOTIC_JUNE_2026_SHOT_01_137.webp",
+    "highres": "assets/highres/024-TANJA_SUBOTIC_JUNE_2026_SHOT_01_137.webp",
     "thumb": "assets/thumb/024-TANJA_SUBOTIC_JUNE_2026_SHOT_01_137.webp"
   },
   {
@@ -322,6 +346,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/025-TANJA_SUBOTIC_JUNE_2026_SHOT_01_139.webp",
+    "highres": "assets/highres/025-TANJA_SUBOTIC_JUNE_2026_SHOT_01_139.webp",
     "thumb": "assets/thumb/025-TANJA_SUBOTIC_JUNE_2026_SHOT_01_139.webp"
   },
   {
@@ -335,6 +360,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/026-TANJA_SUBOTIC_JUNE_2026_SHOT_01_156.webp",
+    "highres": "assets/highres/026-TANJA_SUBOTIC_JUNE_2026_SHOT_01_156.webp",
     "thumb": "assets/thumb/026-TANJA_SUBOTIC_JUNE_2026_SHOT_01_156.webp"
   },
   {
@@ -348,6 +374,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/027-TANJA_SUBOTIC_JUNE_2026_SHOT_01_158.webp",
+    "highres": "assets/highres/027-TANJA_SUBOTIC_JUNE_2026_SHOT_01_158.webp",
     "thumb": "assets/thumb/027-TANJA_SUBOTIC_JUNE_2026_SHOT_01_158.webp"
   },
   {
@@ -361,6 +388,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/028-TANJA_SUBOTIC_JUNE_2026_SHOT_01_159.webp",
+    "highres": "assets/highres/028-TANJA_SUBOTIC_JUNE_2026_SHOT_01_159.webp",
     "thumb": "assets/thumb/028-TANJA_SUBOTIC_JUNE_2026_SHOT_01_159.webp"
   },
   {
@@ -374,6 +402,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/029-TANJA_SUBOTIC_JUNE_2026_SHOT_01_165.webp",
+    "highres": "assets/highres/029-TANJA_SUBOTIC_JUNE_2026_SHOT_01_165.webp",
     "thumb": "assets/thumb/029-TANJA_SUBOTIC_JUNE_2026_SHOT_01_165.webp"
   },
   {
@@ -387,6 +416,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/030-TANJA_SUBOTIC_JUNE_2026_SHOT_01_168.webp",
+    "highres": "assets/highres/030-TANJA_SUBOTIC_JUNE_2026_SHOT_01_168.webp",
     "thumb": "assets/thumb/030-TANJA_SUBOTIC_JUNE_2026_SHOT_01_168.webp"
   },
   {
@@ -400,6 +430,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/031-TANJA_SUBOTIC_JUNE_2026_SHOT_01_173.webp",
+    "highres": "assets/highres/031-TANJA_SUBOTIC_JUNE_2026_SHOT_01_173.webp",
     "thumb": "assets/thumb/031-TANJA_SUBOTIC_JUNE_2026_SHOT_01_173.webp"
   },
   {
@@ -413,6 +444,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/032-TANJA_SUBOTIC_JUNE_2026_SHOT_01_175.webp",
+    "highres": "assets/highres/032-TANJA_SUBOTIC_JUNE_2026_SHOT_01_175.webp",
     "thumb": "assets/thumb/032-TANJA_SUBOTIC_JUNE_2026_SHOT_01_175.webp"
   },
   {
@@ -426,6 +458,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/033-TANJA_SUBOTIC_JUNE_2026_SHOT_01_176.webp",
+    "highres": "assets/highres/033-TANJA_SUBOTIC_JUNE_2026_SHOT_01_176.webp",
     "thumb": "assets/thumb/033-TANJA_SUBOTIC_JUNE_2026_SHOT_01_176.webp"
   },
   {
@@ -439,6 +472,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/034-TANJA_SUBOTIC_JUNE_2026_SHOT_01_178.webp",
+    "highres": "assets/highres/034-TANJA_SUBOTIC_JUNE_2026_SHOT_01_178.webp",
     "thumb": "assets/thumb/034-TANJA_SUBOTIC_JUNE_2026_SHOT_01_178.webp"
   },
   {
@@ -452,6 +486,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/035-TANJA_SUBOTIC_JUNE_2026_SHOT_01_189.webp",
+    "highres": "assets/highres/035-TANJA_SUBOTIC_JUNE_2026_SHOT_01_189.webp",
     "thumb": "assets/thumb/035-TANJA_SUBOTIC_JUNE_2026_SHOT_01_189.webp"
   },
   {
@@ -465,6 +500,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/036-TANJA_SUBOTIC_JUNE_2026_SHOT_01_190.webp",
+    "highres": "assets/highres/036-TANJA_SUBOTIC_JUNE_2026_SHOT_01_190.webp",
     "thumb": "assets/thumb/036-TANJA_SUBOTIC_JUNE_2026_SHOT_01_190.webp"
   },
   {
@@ -478,6 +514,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/037-TANJA_SUBOTIC_JUNE_2026_SHOT_01_191.webp",
+    "highres": "assets/highres/037-TANJA_SUBOTIC_JUNE_2026_SHOT_01_191.webp",
     "thumb": "assets/thumb/037-TANJA_SUBOTIC_JUNE_2026_SHOT_01_191.webp"
   },
   {
@@ -491,6 +528,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/038-TANJA_SUBOTIC_JUNE_2026_SHOT_01_193.webp",
+    "highres": "assets/highres/038-TANJA_SUBOTIC_JUNE_2026_SHOT_01_193.webp",
     "thumb": "assets/thumb/038-TANJA_SUBOTIC_JUNE_2026_SHOT_01_193.webp"
   },
   {
@@ -504,6 +542,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/039-TANJA_SUBOTIC_JUNE_2026_SHOT_01_204.webp",
+    "highres": "assets/highres/039-TANJA_SUBOTIC_JUNE_2026_SHOT_01_204.webp",
     "thumb": "assets/thumb/039-TANJA_SUBOTIC_JUNE_2026_SHOT_01_204.webp"
   },
   {
@@ -517,6 +556,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/040-TANJA_SUBOTIC_JUNE_2026_SHOT_01_212.webp",
+    "highres": "assets/highres/040-TANJA_SUBOTIC_JUNE_2026_SHOT_01_212.webp",
     "thumb": "assets/thumb/040-TANJA_SUBOTIC_JUNE_2026_SHOT_01_212.webp"
   },
   {
@@ -530,6 +570,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/041-TANJA_SUBOTIC_JUNE_2026_SHOT_01_218.webp",
+    "highres": "assets/highres/041-TANJA_SUBOTIC_JUNE_2026_SHOT_01_218.webp",
     "thumb": "assets/thumb/041-TANJA_SUBOTIC_JUNE_2026_SHOT_01_218.webp"
   },
   {
@@ -543,6 +584,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/042-TANJA_SUBOTIC_JUNE_2026_SHOT_01_222.webp",
+    "highres": "assets/highres/042-TANJA_SUBOTIC_JUNE_2026_SHOT_01_222.webp",
     "thumb": "assets/thumb/042-TANJA_SUBOTIC_JUNE_2026_SHOT_01_222.webp"
   },
   {
@@ -556,6 +598,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/043-TANJA_SUBOTIC_JUNE_2026_SHOT_01_234.webp",
+    "highres": "assets/highres/043-TANJA_SUBOTIC_JUNE_2026_SHOT_01_234.webp",
     "thumb": "assets/thumb/043-TANJA_SUBOTIC_JUNE_2026_SHOT_01_234.webp"
   },
   {
@@ -569,6 +612,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/044-TANJA_SUBOTIC_JUNE_2026_SHOT_01_236.webp",
+    "highres": "assets/highres/044-TANJA_SUBOTIC_JUNE_2026_SHOT_01_236.webp",
     "thumb": "assets/thumb/044-TANJA_SUBOTIC_JUNE_2026_SHOT_01_236.webp"
   },
   {
@@ -582,6 +626,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/045-TANJA_SUBOTIC_JUNE_2026_SHOT_01_244.webp",
+    "highres": "assets/highres/045-TANJA_SUBOTIC_JUNE_2026_SHOT_01_244.webp",
     "thumb": "assets/thumb/045-TANJA_SUBOTIC_JUNE_2026_SHOT_01_244.webp"
   },
   {
@@ -595,6 +640,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/046-TANJA_SUBOTIC_JUNE_2026_SHOT_01_251.webp",
+    "highres": "assets/highres/046-TANJA_SUBOTIC_JUNE_2026_SHOT_01_251.webp",
     "thumb": "assets/thumb/046-TANJA_SUBOTIC_JUNE_2026_SHOT_01_251.webp"
   },
   {
@@ -608,6 +654,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/047-TANJA_SUBOTIC_JUNE_2026_SHOT_01_257.webp",
+    "highres": "assets/highres/047-TANJA_SUBOTIC_JUNE_2026_SHOT_01_257.webp",
     "thumb": "assets/thumb/047-TANJA_SUBOTIC_JUNE_2026_SHOT_01_257.webp"
   },
   {
@@ -621,6 +668,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 341,
     "full": "assets/full/048-TANJA_SUBOTIC_JUNE_2026_SHOT_02_001.webp",
+    "highres": "assets/highres/048-TANJA_SUBOTIC_JUNE_2026_SHOT_02_001.webp",
     "thumb": "assets/thumb/048-TANJA_SUBOTIC_JUNE_2026_SHOT_02_001.webp"
   },
   {
@@ -634,6 +682,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 342,
     "full": "assets/full/049-TANJA_SUBOTIC_JUNE_2026_SHOT_02_011.webp",
+    "highres": "assets/highres/049-TANJA_SUBOTIC_JUNE_2026_SHOT_02_011.webp",
     "thumb": "assets/thumb/049-TANJA_SUBOTIC_JUNE_2026_SHOT_02_011.webp"
   },
   {
@@ -647,6 +696,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/050-TANJA_SUBOTIC_JUNE_2026_SHOT_02_017.webp",
+    "highres": "assets/highres/050-TANJA_SUBOTIC_JUNE_2026_SHOT_02_017.webp",
     "thumb": "assets/thumb/050-TANJA_SUBOTIC_JUNE_2026_SHOT_02_017.webp"
   },
   {
@@ -660,6 +710,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 767,
     "full": "assets/full/051-TANJA_SUBOTIC_JUNE_2026_SHOT_02_025.webp",
+    "highres": "assets/highres/051-TANJA_SUBOTIC_JUNE_2026_SHOT_02_025.webp",
     "thumb": "assets/thumb/051-TANJA_SUBOTIC_JUNE_2026_SHOT_02_025.webp"
   },
   {
@@ -673,6 +724,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 767,
     "full": "assets/full/052-TANJA_SUBOTIC_JUNE_2026_SHOT_02_038.webp",
+    "highres": "assets/highres/052-TANJA_SUBOTIC_JUNE_2026_SHOT_02_038.webp",
     "thumb": "assets/thumb/052-TANJA_SUBOTIC_JUNE_2026_SHOT_02_038.webp"
   },
   {
@@ -686,6 +738,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 767,
     "full": "assets/full/053-TANJA_SUBOTIC_JUNE_2026_SHOT_02_039.webp",
+    "highres": "assets/highres/053-TANJA_SUBOTIC_JUNE_2026_SHOT_02_039.webp",
     "thumb": "assets/thumb/053-TANJA_SUBOTIC_JUNE_2026_SHOT_02_039.webp"
   },
   {
@@ -699,6 +752,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 767,
     "full": "assets/full/054-TANJA_SUBOTIC_JUNE_2026_SHOT_02_040.webp",
+    "highres": "assets/highres/054-TANJA_SUBOTIC_JUNE_2026_SHOT_02_040.webp",
     "thumb": "assets/thumb/054-TANJA_SUBOTIC_JUNE_2026_SHOT_02_040.webp"
   },
   {
@@ -712,6 +766,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/055-TANJA_SUBOTIC_JUNE_2026_SHOT_02_051.webp",
+    "highres": "assets/highres/055-TANJA_SUBOTIC_JUNE_2026_SHOT_02_051.webp",
     "thumb": "assets/thumb/055-TANJA_SUBOTIC_JUNE_2026_SHOT_02_051.webp"
   },
   {
@@ -725,6 +780,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 767,
     "full": "assets/full/056-TANJA_SUBOTIC_JUNE_2026_SHOT_02_052.webp",
+    "highres": "assets/highres/056-TANJA_SUBOTIC_JUNE_2026_SHOT_02_052.webp",
     "thumb": "assets/thumb/056-TANJA_SUBOTIC_JUNE_2026_SHOT_02_052.webp"
   },
   {
@@ -738,6 +794,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 341,
     "full": "assets/full/057-TANJA_SUBOTIC_JUNE_2026_SHOT_02_100.webp",
+    "highres": "assets/highres/057-TANJA_SUBOTIC_JUNE_2026_SHOT_02_100.webp",
     "thumb": "assets/thumb/057-TANJA_SUBOTIC_JUNE_2026_SHOT_02_100.webp"
   },
   {
@@ -751,6 +808,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 341,
     "full": "assets/full/058-TANJA_SUBOTIC_JUNE_2026_SHOT_02_104.webp",
+    "highres": "assets/highres/058-TANJA_SUBOTIC_JUNE_2026_SHOT_02_104.webp",
     "thumb": "assets/thumb/058-TANJA_SUBOTIC_JUNE_2026_SHOT_02_104.webp"
   },
   {
@@ -764,6 +822,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 341,
     "full": "assets/full/059-TANJA_SUBOTIC_JUNE_2026_SHOT_02_107.webp",
+    "highres": "assets/highres/059-TANJA_SUBOTIC_JUNE_2026_SHOT_02_107.webp",
     "thumb": "assets/thumb/059-TANJA_SUBOTIC_JUNE_2026_SHOT_02_107.webp"
   },
   {
@@ -777,6 +836,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 341,
     "full": "assets/full/060-TANJA_SUBOTIC_JUNE_2026_SHOT_02_109.webp",
+    "highres": "assets/highres/060-TANJA_SUBOTIC_JUNE_2026_SHOT_02_109.webp",
     "thumb": "assets/thumb/060-TANJA_SUBOTIC_JUNE_2026_SHOT_02_109.webp"
   },
   {
@@ -790,6 +850,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 341,
     "full": "assets/full/061-TANJA_SUBOTIC_JUNE_2026_SHOT_02_110.webp",
+    "highres": "assets/highres/061-TANJA_SUBOTIC_JUNE_2026_SHOT_02_110.webp",
     "thumb": "assets/thumb/061-TANJA_SUBOTIC_JUNE_2026_SHOT_02_110.webp"
   },
   {
@@ -803,6 +864,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 341,
     "full": "assets/full/062-TANJA_SUBOTIC_JUNE_2026_SHOT_02_111.webp",
+    "highres": "assets/highres/062-TANJA_SUBOTIC_JUNE_2026_SHOT_02_111.webp",
     "thumb": "assets/thumb/062-TANJA_SUBOTIC_JUNE_2026_SHOT_02_111.webp"
   },
   {
@@ -816,6 +878,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 341,
     "full": "assets/full/063-TANJA_SUBOTIC_JUNE_2026_SHOT_02_126.webp",
+    "highres": "assets/highres/063-TANJA_SUBOTIC_JUNE_2026_SHOT_02_126.webp",
     "thumb": "assets/thumb/063-TANJA_SUBOTIC_JUNE_2026_SHOT_02_126.webp"
   },
   {
@@ -829,6 +892,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 341,
     "full": "assets/full/064-TANJA_SUBOTIC_JUNE_2026_SHOT_02_130.webp",
+    "highres": "assets/highres/064-TANJA_SUBOTIC_JUNE_2026_SHOT_02_130.webp",
     "thumb": "assets/thumb/064-TANJA_SUBOTIC_JUNE_2026_SHOT_02_130.webp"
   },
   {
@@ -842,6 +906,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 341,
     "full": "assets/full/065-TANJA_SUBOTIC_JUNE_2026_SHOT_02_131.webp",
+    "highres": "assets/highres/065-TANJA_SUBOTIC_JUNE_2026_SHOT_02_131.webp",
     "thumb": "assets/thumb/065-TANJA_SUBOTIC_JUNE_2026_SHOT_02_131.webp"
   },
   {
@@ -855,6 +920,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 341,
     "full": "assets/full/066-TANJA_SUBOTIC_JUNE_2026_SHOT_02_132.webp",
+    "highres": "assets/highres/066-TANJA_SUBOTIC_JUNE_2026_SHOT_02_132.webp",
     "thumb": "assets/thumb/066-TANJA_SUBOTIC_JUNE_2026_SHOT_02_132.webp"
   },
   {
@@ -868,6 +934,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 342,
     "full": "assets/full/067-TANJA_SUBOTIC_JUNE_2026_SHOT_02_134.webp",
+    "highres": "assets/highres/067-TANJA_SUBOTIC_JUNE_2026_SHOT_02_134.webp",
     "thumb": "assets/thumb/067-TANJA_SUBOTIC_JUNE_2026_SHOT_02_134.webp"
   },
   {
@@ -881,6 +948,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 342,
     "full": "assets/full/068-TANJA_SUBOTIC_JUNE_2026_SHOT_02_135.webp",
+    "highres": "assets/highres/068-TANJA_SUBOTIC_JUNE_2026_SHOT_02_135.webp",
     "thumb": "assets/thumb/068-TANJA_SUBOTIC_JUNE_2026_SHOT_02_135.webp"
   },
   {
@@ -894,6 +962,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 342,
     "full": "assets/full/069-TANJA_SUBOTIC_JUNE_2026_SHOT_02_140.webp",
+    "highres": "assets/highres/069-TANJA_SUBOTIC_JUNE_2026_SHOT_02_140.webp",
     "thumb": "assets/thumb/069-TANJA_SUBOTIC_JUNE_2026_SHOT_02_140.webp"
   },
   {
@@ -907,6 +976,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 342,
     "full": "assets/full/070-TANJA_SUBOTIC_JUNE_2026_SHOT_02_141.webp",
+    "highres": "assets/highres/070-TANJA_SUBOTIC_JUNE_2026_SHOT_02_141.webp",
     "thumb": "assets/thumb/070-TANJA_SUBOTIC_JUNE_2026_SHOT_02_141.webp"
   },
   {
@@ -920,6 +990,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 341,
     "full": "assets/full/071-TANJA_SUBOTIC_JUNE_2026_SHOT_02_144.webp",
+    "highres": "assets/highres/071-TANJA_SUBOTIC_JUNE_2026_SHOT_02_144.webp",
     "thumb": "assets/thumb/071-TANJA_SUBOTIC_JUNE_2026_SHOT_02_144.webp"
   },
   {
@@ -933,6 +1004,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 341,
     "full": "assets/full/072-TANJA_SUBOTIC_JUNE_2026_SHOT_02_146.webp",
+    "highres": "assets/highres/072-TANJA_SUBOTIC_JUNE_2026_SHOT_02_146.webp",
     "thumb": "assets/thumb/072-TANJA_SUBOTIC_JUNE_2026_SHOT_02_146.webp"
   },
   {
@@ -946,6 +1018,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/073-TANJA_SUBOTIC_JUNE_2026_SHOT_03_006.webp",
+    "highres": "assets/highres/073-TANJA_SUBOTIC_JUNE_2026_SHOT_03_006.webp",
     "thumb": "assets/thumb/073-TANJA_SUBOTIC_JUNE_2026_SHOT_03_006.webp"
   },
   {
@@ -959,6 +1032,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/074-TANJA_SUBOTIC_JUNE_2026_SHOT_03_007.webp",
+    "highres": "assets/highres/074-TANJA_SUBOTIC_JUNE_2026_SHOT_03_007.webp",
     "thumb": "assets/thumb/074-TANJA_SUBOTIC_JUNE_2026_SHOT_03_007.webp"
   },
   {
@@ -972,6 +1046,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/075-TANJA_SUBOTIC_JUNE_2026_SHOT_03_012.webp",
+    "highres": "assets/highres/075-TANJA_SUBOTIC_JUNE_2026_SHOT_03_012.webp",
     "thumb": "assets/thumb/075-TANJA_SUBOTIC_JUNE_2026_SHOT_03_012.webp"
   },
   {
@@ -985,6 +1060,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/076-TANJA_SUBOTIC_JUNE_2026_SHOT_03_016.webp",
+    "highres": "assets/highres/076-TANJA_SUBOTIC_JUNE_2026_SHOT_03_016.webp",
     "thumb": "assets/thumb/076-TANJA_SUBOTIC_JUNE_2026_SHOT_03_016.webp"
   },
   {
@@ -998,6 +1074,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/077-TANJA_SUBOTIC_JUNE_2026_SHOT_03_019.webp",
+    "highres": "assets/highres/077-TANJA_SUBOTIC_JUNE_2026_SHOT_03_019.webp",
     "thumb": "assets/thumb/077-TANJA_SUBOTIC_JUNE_2026_SHOT_03_019.webp"
   },
   {
@@ -1011,6 +1088,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/078-TANJA_SUBOTIC_JUNE_2026_SHOT_03_022.webp",
+    "highres": "assets/highres/078-TANJA_SUBOTIC_JUNE_2026_SHOT_03_022.webp",
     "thumb": "assets/thumb/078-TANJA_SUBOTIC_JUNE_2026_SHOT_03_022.webp"
   },
   {
@@ -1024,6 +1102,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/079-TANJA_SUBOTIC_JUNE_2026_SHOT_03_032.webp",
+    "highres": "assets/highres/079-TANJA_SUBOTIC_JUNE_2026_SHOT_03_032.webp",
     "thumb": "assets/thumb/079-TANJA_SUBOTIC_JUNE_2026_SHOT_03_032.webp"
   },
   {
@@ -1037,6 +1116,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/080-TANJA_SUBOTIC_JUNE_2026_SHOT_03_033.webp",
+    "highres": "assets/highres/080-TANJA_SUBOTIC_JUNE_2026_SHOT_03_033.webp",
     "thumb": "assets/thumb/080-TANJA_SUBOTIC_JUNE_2026_SHOT_03_033.webp"
   },
   {
@@ -1050,6 +1130,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/081-TANJA_SUBOTIC_JUNE_2026_SHOT_03_039.webp",
+    "highres": "assets/highres/081-TANJA_SUBOTIC_JUNE_2026_SHOT_03_039.webp",
     "thumb": "assets/thumb/081-TANJA_SUBOTIC_JUNE_2026_SHOT_03_039.webp"
   },
   {
@@ -1063,6 +1144,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/082-TANJA_SUBOTIC_JUNE_2026_SHOT_03_040.webp",
+    "highres": "assets/highres/082-TANJA_SUBOTIC_JUNE_2026_SHOT_03_040.webp",
     "thumb": "assets/thumb/082-TANJA_SUBOTIC_JUNE_2026_SHOT_03_040.webp"
   },
   {
@@ -1076,6 +1158,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/083-TANJA_SUBOTIC_JUNE_2026_SHOT_03_041.webp",
+    "highres": "assets/highres/083-TANJA_SUBOTIC_JUNE_2026_SHOT_03_041.webp",
     "thumb": "assets/thumb/083-TANJA_SUBOTIC_JUNE_2026_SHOT_03_041.webp"
   },
   {
@@ -1089,6 +1172,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/084-TANJA_SUBOTIC_JUNE_2026_SHOT_03_042.webp",
+    "highres": "assets/highres/084-TANJA_SUBOTIC_JUNE_2026_SHOT_03_042.webp",
     "thumb": "assets/thumb/084-TANJA_SUBOTIC_JUNE_2026_SHOT_03_042.webp"
   },
   {
@@ -1102,6 +1186,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 767,
     "full": "assets/full/085-TANJA_SUBOTIC_JUNE_2026_SHOT_03_043.webp",
+    "highres": "assets/highres/085-TANJA_SUBOTIC_JUNE_2026_SHOT_03_043.webp",
     "thumb": "assets/thumb/085-TANJA_SUBOTIC_JUNE_2026_SHOT_03_043.webp"
   },
   {
@@ -1115,6 +1200,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/086-TANJA_SUBOTIC_JUNE_2026_SHOT_03_044.webp",
+    "highres": "assets/highres/086-TANJA_SUBOTIC_JUNE_2026_SHOT_03_044.webp",
     "thumb": "assets/thumb/086-TANJA_SUBOTIC_JUNE_2026_SHOT_03_044.webp"
   },
   {
@@ -1128,6 +1214,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/087-TANJA_SUBOTIC_JUNE_2026_SHOT_03_045.webp",
+    "highres": "assets/highres/087-TANJA_SUBOTIC_JUNE_2026_SHOT_03_045.webp",
     "thumb": "assets/thumb/087-TANJA_SUBOTIC_JUNE_2026_SHOT_03_045.webp"
   },
   {
@@ -1141,6 +1228,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/088-TANJA_SUBOTIC_JUNE_2026_SHOT_03_051.webp",
+    "highres": "assets/highres/088-TANJA_SUBOTIC_JUNE_2026_SHOT_03_051.webp",
     "thumb": "assets/thumb/088-TANJA_SUBOTIC_JUNE_2026_SHOT_03_051.webp"
   },
   {
@@ -1154,6 +1242,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/089-TANJA_SUBOTIC_JUNE_2026_SHOT_03_054.webp",
+    "highres": "assets/highres/089-TANJA_SUBOTIC_JUNE_2026_SHOT_03_054.webp",
     "thumb": "assets/thumb/089-TANJA_SUBOTIC_JUNE_2026_SHOT_03_054.webp"
   },
   {
@@ -1167,6 +1256,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/090-TANJA_SUBOTIC_JUNE_2026_SHOT_03_057.webp",
+    "highres": "assets/highres/090-TANJA_SUBOTIC_JUNE_2026_SHOT_03_057.webp",
     "thumb": "assets/thumb/090-TANJA_SUBOTIC_JUNE_2026_SHOT_03_057.webp"
   },
   {
@@ -1180,6 +1270,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/091-TANJA_SUBOTIC_JUNE_2026_SHOT_03_076.webp",
+    "highres": "assets/highres/091-TANJA_SUBOTIC_JUNE_2026_SHOT_03_076.webp",
     "thumb": "assets/thumb/091-TANJA_SUBOTIC_JUNE_2026_SHOT_03_076.webp"
   },
   {
@@ -1193,6 +1284,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/092-TANJA_SUBOTIC_JUNE_2026_SHOT_03_084.webp",
+    "highres": "assets/highres/092-TANJA_SUBOTIC_JUNE_2026_SHOT_03_084.webp",
     "thumb": "assets/thumb/092-TANJA_SUBOTIC_JUNE_2026_SHOT_03_084.webp"
   },
   {
@@ -1206,6 +1298,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/093-TANJA_SUBOTIC_JUNE_2026_SHOT_03_090.webp",
+    "highres": "assets/highres/093-TANJA_SUBOTIC_JUNE_2026_SHOT_03_090.webp",
     "thumb": "assets/thumb/093-TANJA_SUBOTIC_JUNE_2026_SHOT_03_090.webp"
   },
   {
@@ -1219,6 +1312,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 342,
     "full": "assets/full/094-TANJA_SUBOTIC_JUNE_2026_SHOT_04_002.webp",
+    "highres": "assets/highres/094-TANJA_SUBOTIC_JUNE_2026_SHOT_04_002.webp",
     "thumb": "assets/thumb/094-TANJA_SUBOTIC_JUNE_2026_SHOT_04_002.webp"
   },
   {
@@ -1232,6 +1326,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 342,
     "full": "assets/full/095-TANJA_SUBOTIC_JUNE_2026_SHOT_04_004.webp",
+    "highres": "assets/highres/095-TANJA_SUBOTIC_JUNE_2026_SHOT_04_004.webp",
     "thumb": "assets/thumb/095-TANJA_SUBOTIC_JUNE_2026_SHOT_04_004.webp"
   },
   {
@@ -1245,6 +1340,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 342,
     "full": "assets/full/096-TANJA_SUBOTIC_JUNE_2026_SHOT_04_012.webp",
+    "highres": "assets/highres/096-TANJA_SUBOTIC_JUNE_2026_SHOT_04_012.webp",
     "thumb": "assets/thumb/096-TANJA_SUBOTIC_JUNE_2026_SHOT_04_012.webp"
   },
   {
@@ -1258,6 +1354,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 342,
     "full": "assets/full/097-TANJA_SUBOTIC_JUNE_2026_SHOT_04_027.webp",
+    "highres": "assets/highres/097-TANJA_SUBOTIC_JUNE_2026_SHOT_04_027.webp",
     "thumb": "assets/thumb/097-TANJA_SUBOTIC_JUNE_2026_SHOT_04_027.webp"
   },
   {
@@ -1271,6 +1368,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 342,
     "full": "assets/full/098-TANJA_SUBOTIC_JUNE_2026_SHOT_04_036.webp",
+    "highres": "assets/highres/098-TANJA_SUBOTIC_JUNE_2026_SHOT_04_036.webp",
     "thumb": "assets/thumb/098-TANJA_SUBOTIC_JUNE_2026_SHOT_04_036.webp"
   },
   {
@@ -1284,6 +1382,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/099-TANJA_SUBOTIC_JUNE_2026_SHOT_04_044.webp",
+    "highres": "assets/highres/099-TANJA_SUBOTIC_JUNE_2026_SHOT_04_044.webp",
     "thumb": "assets/thumb/099-TANJA_SUBOTIC_JUNE_2026_SHOT_04_044.webp"
   },
   {
@@ -1297,6 +1396,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 342,
     "full": "assets/full/100-TANJA_SUBOTIC_JUNE_2026_SHOT_04_052.webp",
+    "highres": "assets/highres/100-TANJA_SUBOTIC_JUNE_2026_SHOT_04_052.webp",
     "thumb": "assets/thumb/100-TANJA_SUBOTIC_JUNE_2026_SHOT_04_052.webp"
   },
   {
@@ -1310,6 +1410,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/101-TANJA_SUBOTIC_JUNE_2026_SHOT_05_002.webp",
+    "highres": "assets/highres/101-TANJA_SUBOTIC_JUNE_2026_SHOT_05_002.webp",
     "thumb": "assets/thumb/101-TANJA_SUBOTIC_JUNE_2026_SHOT_05_002.webp"
   },
   {
@@ -1323,6 +1424,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/102-TANJA_SUBOTIC_JUNE_2026_SHOT_05_003.webp",
+    "highres": "assets/highres/102-TANJA_SUBOTIC_JUNE_2026_SHOT_05_003.webp",
     "thumb": "assets/thumb/102-TANJA_SUBOTIC_JUNE_2026_SHOT_05_003.webp"
   },
   {
@@ -1336,6 +1438,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/103-TANJA_SUBOTIC_JUNE_2026_SHOT_05_035.webp",
+    "highres": "assets/highres/103-TANJA_SUBOTIC_JUNE_2026_SHOT_05_035.webp",
     "thumb": "assets/thumb/103-TANJA_SUBOTIC_JUNE_2026_SHOT_05_035.webp"
   },
   {
@@ -1349,6 +1452,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/104-TANJA_SUBOTIC_JUNE_2026_SHOT_05_038.webp",
+    "highres": "assets/highres/104-TANJA_SUBOTIC_JUNE_2026_SHOT_05_038.webp",
     "thumb": "assets/thumb/104-TANJA_SUBOTIC_JUNE_2026_SHOT_05_038.webp"
   },
   {
@@ -1362,6 +1466,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/105-TANJA_SUBOTIC_JUNE_2026_SHOT_05_042.webp",
+    "highres": "assets/highres/105-TANJA_SUBOTIC_JUNE_2026_SHOT_05_042.webp",
     "thumb": "assets/thumb/105-TANJA_SUBOTIC_JUNE_2026_SHOT_05_042.webp"
   },
   {
@@ -1375,6 +1480,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/106-TANJA_SUBOTIC_JUNE_2026_SHOT_05_044.webp",
+    "highres": "assets/highres/106-TANJA_SUBOTIC_JUNE_2026_SHOT_05_044.webp",
     "thumb": "assets/thumb/106-TANJA_SUBOTIC_JUNE_2026_SHOT_05_044.webp"
   },
   {
@@ -1388,6 +1494,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/107-TANJA_SUBOTIC_JUNE_2026_SHOT_05_051.webp",
+    "highres": "assets/highres/107-TANJA_SUBOTIC_JUNE_2026_SHOT_05_051.webp",
     "thumb": "assets/thumb/107-TANJA_SUBOTIC_JUNE_2026_SHOT_05_051.webp"
   },
   {
@@ -1401,6 +1508,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/108-TANJA_SUBOTIC_JUNE_2026_SHOT_05_053.webp",
+    "highres": "assets/highres/108-TANJA_SUBOTIC_JUNE_2026_SHOT_05_053.webp",
     "thumb": "assets/thumb/108-TANJA_SUBOTIC_JUNE_2026_SHOT_05_053.webp"
   },
   {
@@ -1414,6 +1522,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/109-TANJA_SUBOTIC_JUNE_2026_SHOT_05_069.webp",
+    "highres": "assets/highres/109-TANJA_SUBOTIC_JUNE_2026_SHOT_05_069.webp",
     "thumb": "assets/thumb/109-TANJA_SUBOTIC_JUNE_2026_SHOT_05_069.webp"
   },
   {
@@ -1427,6 +1536,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/110-TANJA_SUBOTIC_JUNE_2026_SHOT_05_070.webp",
+    "highres": "assets/highres/110-TANJA_SUBOTIC_JUNE_2026_SHOT_05_070.webp",
     "thumb": "assets/thumb/110-TANJA_SUBOTIC_JUNE_2026_SHOT_05_070.webp"
   },
   {
@@ -1440,6 +1550,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/111-TANJA_SUBOTIC_JUNE_2026_SHOT_05_076.webp",
+    "highres": "assets/highres/111-TANJA_SUBOTIC_JUNE_2026_SHOT_05_076.webp",
     "thumb": "assets/thumb/111-TANJA_SUBOTIC_JUNE_2026_SHOT_05_076.webp"
   },
   {
@@ -1453,6 +1564,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/112-TANJA_SUBOTIC_JUNE_2026_SHOT_05_114.webp",
+    "highres": "assets/highres/112-TANJA_SUBOTIC_JUNE_2026_SHOT_05_114.webp",
     "thumb": "assets/thumb/112-TANJA_SUBOTIC_JUNE_2026_SHOT_05_114.webp"
   },
   {
@@ -1466,6 +1578,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/113-TANJA_SUBOTIC_JUNE_2026_SHOT_05_115.webp",
+    "highres": "assets/highres/113-TANJA_SUBOTIC_JUNE_2026_SHOT_05_115.webp",
     "thumb": "assets/thumb/113-TANJA_SUBOTIC_JUNE_2026_SHOT_05_115.webp"
   },
   {
@@ -1479,6 +1592,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/114-TANJA_SUBOTIC_JUNE_2026_SHOT_05_119.webp",
+    "highres": "assets/highres/114-TANJA_SUBOTIC_JUNE_2026_SHOT_05_119.webp",
     "thumb": "assets/thumb/114-TANJA_SUBOTIC_JUNE_2026_SHOT_05_119.webp"
   },
   {
@@ -1492,6 +1606,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/115-TANJA_SUBOTIC_JUNE_2026_SHOT_07_053.webp",
+    "highres": "assets/highres/115-TANJA_SUBOTIC_JUNE_2026_SHOT_07_053.webp",
     "thumb": "assets/thumb/115-TANJA_SUBOTIC_JUNE_2026_SHOT_07_053.webp"
   },
   {
@@ -1505,6 +1620,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/116-TANJA_SUBOTIC_JUNE_2026_SHOT_07_058.webp",
+    "highres": "assets/highres/116-TANJA_SUBOTIC_JUNE_2026_SHOT_07_058.webp",
     "thumb": "assets/thumb/116-TANJA_SUBOTIC_JUNE_2026_SHOT_07_058.webp"
   },
   {
@@ -1518,6 +1634,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/117-TANJA_SUBOTIC_JUNE_2026_SHOT_07_059.webp",
+    "highres": "assets/highres/117-TANJA_SUBOTIC_JUNE_2026_SHOT_07_059.webp",
     "thumb": "assets/thumb/117-TANJA_SUBOTIC_JUNE_2026_SHOT_07_059.webp"
   },
   {
@@ -1531,6 +1648,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/118-TANJA_SUBOTIC_JUNE_2026_SHOT_07_062.webp",
+    "highres": "assets/highres/118-TANJA_SUBOTIC_JUNE_2026_SHOT_07_062.webp",
     "thumb": "assets/thumb/118-TANJA_SUBOTIC_JUNE_2026_SHOT_07_062.webp"
   },
   {
@@ -1544,6 +1662,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/119-TANJA_SUBOTIC_JUNE_2026_SHOT_07_072.webp",
+    "highres": "assets/highres/119-TANJA_SUBOTIC_JUNE_2026_SHOT_07_072.webp",
     "thumb": "assets/thumb/119-TANJA_SUBOTIC_JUNE_2026_SHOT_07_072.webp"
   },
   {
@@ -1557,6 +1676,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/120-TANJA_SUBOTIC_JUNE_2026_SHOT_07_073.webp",
+    "highres": "assets/highres/120-TANJA_SUBOTIC_JUNE_2026_SHOT_07_073.webp",
     "thumb": "assets/thumb/120-TANJA_SUBOTIC_JUNE_2026_SHOT_07_073.webp"
   },
   {
@@ -1570,6 +1690,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/121-TANJA_SUBOTIC_JUNE_2026_SHOT_07_075.webp",
+    "highres": "assets/highres/121-TANJA_SUBOTIC_JUNE_2026_SHOT_07_075.webp",
     "thumb": "assets/thumb/121-TANJA_SUBOTIC_JUNE_2026_SHOT_07_075.webp"
   },
   {
@@ -1583,6 +1704,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/122-TANJA_SUBOTIC_JUNE_2026_SHOT_07_078.webp",
+    "highres": "assets/highres/122-TANJA_SUBOTIC_JUNE_2026_SHOT_07_078.webp",
     "thumb": "assets/thumb/122-TANJA_SUBOTIC_JUNE_2026_SHOT_07_078.webp"
   },
   {
@@ -1596,6 +1718,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/123-TANJA_SUBOTIC_JUNE_2026_SHOT_07_081.webp",
+    "highres": "assets/highres/123-TANJA_SUBOTIC_JUNE_2026_SHOT_07_081.webp",
     "thumb": "assets/thumb/123-TANJA_SUBOTIC_JUNE_2026_SHOT_07_081.webp"
   },
   {
@@ -1609,6 +1732,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/124-TANJA_SUBOTIC_JUNE_2026_SHOT_07_115.webp",
+    "highres": "assets/highres/124-TANJA_SUBOTIC_JUNE_2026_SHOT_07_115.webp",
     "thumb": "assets/thumb/124-TANJA_SUBOTIC_JUNE_2026_SHOT_07_115.webp"
   },
   {
@@ -1622,6 +1746,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 341,
     "full": "assets/full/125-TANJA_SUBOTIC_JUNE_2026_SHOT_07_122.webp",
+    "highres": "assets/highres/125-TANJA_SUBOTIC_JUNE_2026_SHOT_07_122.webp",
     "thumb": "assets/thumb/125-TANJA_SUBOTIC_JUNE_2026_SHOT_07_122.webp"
   },
   {
@@ -1635,6 +1760,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 341,
     "full": "assets/full/126-TANJA_SUBOTIC_JUNE_2026_SHOT_07_123.webp",
+    "highres": "assets/highres/126-TANJA_SUBOTIC_JUNE_2026_SHOT_07_123.webp",
     "thumb": "assets/thumb/126-TANJA_SUBOTIC_JUNE_2026_SHOT_07_123.webp"
   },
   {
@@ -1648,6 +1774,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 341,
     "full": "assets/full/127-TANJA_SUBOTIC_JUNE_2026_SHOT_07_132.webp",
+    "highres": "assets/highres/127-TANJA_SUBOTIC_JUNE_2026_SHOT_07_132.webp",
     "thumb": "assets/thumb/127-TANJA_SUBOTIC_JUNE_2026_SHOT_07_132.webp"
   },
   {
@@ -1661,6 +1788,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 341,
     "full": "assets/full/128-TANJA_SUBOTIC_JUNE_2026_SHOT_07_133.webp",
+    "highres": "assets/highres/128-TANJA_SUBOTIC_JUNE_2026_SHOT_07_133.webp",
     "thumb": "assets/thumb/128-TANJA_SUBOTIC_JUNE_2026_SHOT_07_133.webp"
   },
   {
@@ -1674,6 +1802,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 341,
     "full": "assets/full/129-TANJA_SUBOTIC_JUNE_2026_SHOT_07_139.webp",
+    "highres": "assets/highres/129-TANJA_SUBOTIC_JUNE_2026_SHOT_07_139.webp",
     "thumb": "assets/thumb/129-TANJA_SUBOTIC_JUNE_2026_SHOT_07_139.webp"
   },
   {
@@ -1687,6 +1816,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 341,
     "full": "assets/full/130-TANJA_SUBOTIC_JUNE_2026_SHOT_07_140.webp",
+    "highres": "assets/highres/130-TANJA_SUBOTIC_JUNE_2026_SHOT_07_140.webp",
     "thumb": "assets/thumb/130-TANJA_SUBOTIC_JUNE_2026_SHOT_07_140.webp"
   },
   {
@@ -1700,6 +1830,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 341,
     "full": "assets/full/131-TANJA_SUBOTIC_JUNE_2026_SHOT_07_141.webp",
+    "highres": "assets/highres/131-TANJA_SUBOTIC_JUNE_2026_SHOT_07_141.webp",
     "thumb": "assets/thumb/131-TANJA_SUBOTIC_JUNE_2026_SHOT_07_141.webp"
   },
   {
@@ -1713,6 +1844,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/132-TANJA_SUBOTIC_JUNE_2026_SHOT_07_144.webp",
+    "highres": "assets/highres/132-TANJA_SUBOTIC_JUNE_2026_SHOT_07_144.webp",
     "thumb": "assets/thumb/132-TANJA_SUBOTIC_JUNE_2026_SHOT_07_144.webp"
   },
   {
@@ -1726,6 +1858,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/133-TANJA_SUBOTIC_JUNE_2026_SHOT_07_150.webp",
+    "highres": "assets/highres/133-TANJA_SUBOTIC_JUNE_2026_SHOT_07_150.webp",
     "thumb": "assets/thumb/133-TANJA_SUBOTIC_JUNE_2026_SHOT_07_150.webp"
   },
   {
@@ -1739,6 +1872,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/134-TANJA_SUBOTIC_JUNE_2026_SHOT_07_151.webp",
+    "highres": "assets/highres/134-TANJA_SUBOTIC_JUNE_2026_SHOT_07_151.webp",
     "thumb": "assets/thumb/134-TANJA_SUBOTIC_JUNE_2026_SHOT_07_151.webp"
   },
   {
@@ -1752,6 +1886,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/135-TANJA_SUBOTIC_JUNE_2026_SHOT_07_152.webp",
+    "highres": "assets/highres/135-TANJA_SUBOTIC_JUNE_2026_SHOT_07_152.webp",
     "thumb": "assets/thumb/135-TANJA_SUBOTIC_JUNE_2026_SHOT_07_152.webp"
   },
   {
@@ -1765,6 +1900,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/136-TANJA_SUBOTIC_JUNE_2026_SHOT_07_153.webp",
+    "highres": "assets/highres/136-TANJA_SUBOTIC_JUNE_2026_SHOT_07_153.webp",
     "thumb": "assets/thumb/136-TANJA_SUBOTIC_JUNE_2026_SHOT_07_153.webp"
   },
   {
@@ -1778,6 +1914,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/137-TANJA_SUBOTIC_JUNE_2026_SHOT_07_154.webp",
+    "highres": "assets/highres/137-TANJA_SUBOTIC_JUNE_2026_SHOT_07_154.webp",
     "thumb": "assets/thumb/137-TANJA_SUBOTIC_JUNE_2026_SHOT_07_154.webp"
   },
   {
@@ -1791,6 +1928,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/138-TANJA_SUBOTIC_JUNE_2026_SHOT_07_155.webp",
+    "highres": "assets/highres/138-TANJA_SUBOTIC_JUNE_2026_SHOT_07_155.webp",
     "thumb": "assets/thumb/138-TANJA_SUBOTIC_JUNE_2026_SHOT_07_155.webp"
   },
   {
@@ -1804,6 +1942,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 768,
     "full": "assets/full/139-TANJA_SUBOTIC_JUNE_2026_SHOT_07_156.webp",
+    "highres": "assets/highres/139-TANJA_SUBOTIC_JUNE_2026_SHOT_07_156.webp",
     "thumb": "assets/thumb/139-TANJA_SUBOTIC_JUNE_2026_SHOT_07_156.webp"
   },
   {
@@ -1817,6 +1956,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/140-TANJA_SUBOTIC_JUNE_2026_SHOT_08_011.webp",
+    "highres": "assets/highres/140-TANJA_SUBOTIC_JUNE_2026_SHOT_08_011.webp",
     "thumb": "assets/thumb/140-TANJA_SUBOTIC_JUNE_2026_SHOT_08_011.webp"
   },
   {
@@ -1830,6 +1970,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/141-TANJA_SUBOTIC_JUNE_2026_SHOT_08_015.webp",
+    "highres": "assets/highres/141-TANJA_SUBOTIC_JUNE_2026_SHOT_08_015.webp",
     "thumb": "assets/thumb/141-TANJA_SUBOTIC_JUNE_2026_SHOT_08_015.webp"
   },
   {
@@ -1843,6 +1984,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/142-TANJA_SUBOTIC_JUNE_2026_SHOT_08_016.webp",
+    "highres": "assets/highres/142-TANJA_SUBOTIC_JUNE_2026_SHOT_08_016.webp",
     "thumb": "assets/thumb/142-TANJA_SUBOTIC_JUNE_2026_SHOT_08_016.webp"
   },
   {
@@ -1856,6 +1998,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/143-TANJA_SUBOTIC_JUNE_2026_SHOT_08_017.webp",
+    "highres": "assets/highres/143-TANJA_SUBOTIC_JUNE_2026_SHOT_08_017.webp",
     "thumb": "assets/thumb/143-TANJA_SUBOTIC_JUNE_2026_SHOT_08_017.webp"
   },
   {
@@ -1869,6 +2012,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/144-TANJA_SUBOTIC_JUNE_2026_SHOT_08_020.webp",
+    "highres": "assets/highres/144-TANJA_SUBOTIC_JUNE_2026_SHOT_08_020.webp",
     "thumb": "assets/thumb/144-TANJA_SUBOTIC_JUNE_2026_SHOT_08_020.webp"
   },
   {
@@ -1882,6 +2026,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/145-TANJA_SUBOTIC_JUNE_2026_SHOT_08_025.webp",
+    "highres": "assets/highres/145-TANJA_SUBOTIC_JUNE_2026_SHOT_08_025.webp",
     "thumb": "assets/thumb/145-TANJA_SUBOTIC_JUNE_2026_SHOT_08_025.webp"
   },
   {
@@ -1895,6 +2040,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/146-TANJA_SUBOTIC_JUNE_2026_SHOT_08_039.webp",
+    "highres": "assets/highres/146-TANJA_SUBOTIC_JUNE_2026_SHOT_08_039.webp",
     "thumb": "assets/thumb/146-TANJA_SUBOTIC_JUNE_2026_SHOT_08_039.webp"
   },
   {
@@ -1908,6 +2054,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/147-TANJA_SUBOTIC_JUNE_2026_SHOT_08_040.webp",
+    "highres": "assets/highres/147-TANJA_SUBOTIC_JUNE_2026_SHOT_08_040.webp",
     "thumb": "assets/thumb/147-TANJA_SUBOTIC_JUNE_2026_SHOT_08_040.webp"
   },
   {
@@ -1921,6 +2068,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/148-TANJA_SUBOTIC_JUNE_2026_SHOT_08_042.webp",
+    "highres": "assets/highres/148-TANJA_SUBOTIC_JUNE_2026_SHOT_08_042.webp",
     "thumb": "assets/thumb/148-TANJA_SUBOTIC_JUNE_2026_SHOT_08_042.webp"
   },
   {
@@ -1934,6 +2082,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/149-TANJA_SUBOTIC_JUNE_2026_SHOT_08_043.webp",
+    "highres": "assets/highres/149-TANJA_SUBOTIC_JUNE_2026_SHOT_08_043.webp",
     "thumb": "assets/thumb/149-TANJA_SUBOTIC_JUNE_2026_SHOT_08_043.webp"
   },
   {
@@ -1947,6 +2096,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/150-TANJA_SUBOTIC_JUNE_2026_SHOT_08_051.webp",
+    "highres": "assets/highres/150-TANJA_SUBOTIC_JUNE_2026_SHOT_08_051.webp",
     "thumb": "assets/thumb/150-TANJA_SUBOTIC_JUNE_2026_SHOT_08_051.webp"
   },
   {
@@ -1960,6 +2110,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/151-TANJA_SUBOTIC_JUNE_2026_SHOT_08_053.webp",
+    "highres": "assets/highres/151-TANJA_SUBOTIC_JUNE_2026_SHOT_08_053.webp",
     "thumb": "assets/thumb/151-TANJA_SUBOTIC_JUNE_2026_SHOT_08_053.webp"
   },
   {
@@ -1973,6 +2124,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/152-TANJA_SUBOTIC_JUNE_2026_SHOT_08_063.webp",
+    "highres": "assets/highres/152-TANJA_SUBOTIC_JUNE_2026_SHOT_08_063.webp",
     "thumb": "assets/thumb/152-TANJA_SUBOTIC_JUNE_2026_SHOT_08_063.webp"
   },
   {
@@ -1986,6 +2138,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/153-TANJA_SUBOTIC_JUNE_2026_SHOT_08_071.webp",
+    "highres": "assets/highres/153-TANJA_SUBOTIC_JUNE_2026_SHOT_08_071.webp",
     "thumb": "assets/thumb/153-TANJA_SUBOTIC_JUNE_2026_SHOT_08_071.webp"
   },
   {
@@ -1999,6 +2152,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/154-TANJA_SUBOTIC_JUNE_2026_SHOT_08_080.webp",
+    "highres": "assets/highres/154-TANJA_SUBOTIC_JUNE_2026_SHOT_08_080.webp",
     "thumb": "assets/thumb/154-TANJA_SUBOTIC_JUNE_2026_SHOT_08_080.webp"
   },
   {
@@ -2012,6 +2166,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/155-TANJA_SUBOTIC_JUNE_2026_SHOT_08_082.webp",
+    "highres": "assets/highres/155-TANJA_SUBOTIC_JUNE_2026_SHOT_08_082.webp",
     "thumb": "assets/thumb/155-TANJA_SUBOTIC_JUNE_2026_SHOT_08_082.webp"
   },
   {
@@ -2025,6 +2180,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/156-TANJA_SUBOTIC_JUNE_2026_SHOT_08_084.webp",
+    "highres": "assets/highres/156-TANJA_SUBOTIC_JUNE_2026_SHOT_08_084.webp",
     "thumb": "assets/thumb/156-TANJA_SUBOTIC_JUNE_2026_SHOT_08_084.webp"
   },
   {
@@ -2038,6 +2194,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/157-TANJA_SUBOTIC_JUNE_2026_SHOT_08_087.webp",
+    "highres": "assets/highres/157-TANJA_SUBOTIC_JUNE_2026_SHOT_08_087.webp",
     "thumb": "assets/thumb/157-TANJA_SUBOTIC_JUNE_2026_SHOT_08_087.webp"
   },
   {
@@ -2051,6 +2208,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/158-TANJA_SUBOTIC_JUNE_2026_SHOT_08_090.webp",
+    "highres": "assets/highres/158-TANJA_SUBOTIC_JUNE_2026_SHOT_08_090.webp",
     "thumb": "assets/thumb/158-TANJA_SUBOTIC_JUNE_2026_SHOT_08_090.webp"
   },
   {
@@ -2064,6 +2222,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/159-TANJA_SUBOTIC_JUNE_2026_SHOT_08_103.webp",
+    "highres": "assets/highres/159-TANJA_SUBOTIC_JUNE_2026_SHOT_08_103.webp",
     "thumb": "assets/thumb/159-TANJA_SUBOTIC_JUNE_2026_SHOT_08_103.webp"
   },
   {
@@ -2077,6 +2236,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/160-TANJA_SUBOTIC_JUNE_2026_SHOT_08_108.webp",
+    "highres": "assets/highres/160-TANJA_SUBOTIC_JUNE_2026_SHOT_08_108.webp",
     "thumb": "assets/thumb/160-TANJA_SUBOTIC_JUNE_2026_SHOT_08_108.webp"
   },
   {
@@ -2090,6 +2250,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/161-TANJA_SUBOTIC_JUNE_2026_SHOT_08_109.webp",
+    "highres": "assets/highres/161-TANJA_SUBOTIC_JUNE_2026_SHOT_08_109.webp",
     "thumb": "assets/thumb/161-TANJA_SUBOTIC_JUNE_2026_SHOT_08_109.webp"
   },
   {
@@ -2103,6 +2264,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 683,
     "full": "assets/full/162-TANJA_SUBOTIC_JUNE_2026_SHOT_08_113.webp",
+    "highres": "assets/highres/162-TANJA_SUBOTIC_JUNE_2026_SHOT_08_113.webp",
     "thumb": "assets/thumb/162-TANJA_SUBOTIC_JUNE_2026_SHOT_08_113.webp"
   },
   {
@@ -2116,6 +2278,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/163-OW9A2933.webp",
+    "highres": "assets/highres/163-OW9A2933.webp",
     "thumb": "assets/thumb/163-OW9A2933.webp"
   },
   {
@@ -2129,6 +2292,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/164-OW9A2952.webp",
+    "highres": "assets/highres/164-OW9A2952.webp",
     "thumb": "assets/thumb/164-OW9A2952.webp"
   },
   {
@@ -2142,6 +2306,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/165-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_011.webp",
+    "highres": "assets/highres/165-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_011.webp",
     "thumb": "assets/thumb/165-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_011.webp"
   },
   {
@@ -2155,6 +2320,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/166-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_014.webp",
+    "highres": "assets/highres/166-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_014.webp",
     "thumb": "assets/thumb/166-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_014.webp"
   },
   {
@@ -2168,6 +2334,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/167-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_015.webp",
+    "highres": "assets/highres/167-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_015.webp",
     "thumb": "assets/thumb/167-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_015.webp"
   },
   {
@@ -2181,6 +2348,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/168-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_020.webp",
+    "highres": "assets/highres/168-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_020.webp",
     "thumb": "assets/thumb/168-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_020.webp"
   },
   {
@@ -2194,6 +2362,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/169-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_024.webp",
+    "highres": "assets/highres/169-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_024.webp",
     "thumb": "assets/thumb/169-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_024.webp"
   },
   {
@@ -2207,6 +2376,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/170-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_035.webp",
+    "highres": "assets/highres/170-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_035.webp",
     "thumb": "assets/thumb/170-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_035.webp"
   },
   {
@@ -2220,6 +2390,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/171-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_042.webp",
+    "highres": "assets/highres/171-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_042.webp",
     "thumb": "assets/thumb/171-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_042.webp"
   },
   {
@@ -2233,6 +2404,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/172-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_050.webp",
+    "highres": "assets/highres/172-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_050.webp",
     "thumb": "assets/thumb/172-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_050.webp"
   },
   {
@@ -2246,6 +2418,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/173-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_060.webp",
+    "highres": "assets/highres/173-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_060.webp",
     "thumb": "assets/thumb/173-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_060.webp"
   },
   {
@@ -2259,6 +2432,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/174-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_086.webp",
+    "highres": "assets/highres/174-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_086.webp",
     "thumb": "assets/thumb/174-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_086.webp"
   },
   {
@@ -2272,6 +2446,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/175-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_087.webp",
+    "highres": "assets/highres/175-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_087.webp",
     "thumb": "assets/thumb/175-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_087.webp"
   },
   {
@@ -2285,6 +2460,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/176-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_089.webp",
+    "highres": "assets/highres/176-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_089.webp",
     "thumb": "assets/thumb/176-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_089.webp"
   },
   {
@@ -2298,6 +2474,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/177-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_111.webp",
+    "highres": "assets/highres/177-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_111.webp",
     "thumb": "assets/thumb/177-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_111.webp"
   },
   {
@@ -2311,6 +2488,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/178-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_127.webp",
+    "highres": "assets/highres/178-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_127.webp",
     "thumb": "assets/thumb/178-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_127.webp"
   },
   {
@@ -2324,6 +2502,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/179-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_128.webp",
+    "highres": "assets/highres/179-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_128.webp",
     "thumb": "assets/thumb/179-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_128.webp"
   },
   {
@@ -2337,6 +2516,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/180-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_129.webp",
+    "highres": "assets/highres/180-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_129.webp",
     "thumb": "assets/thumb/180-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_129.webp"
   },
   {
@@ -2350,6 +2530,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/181-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_138.webp",
+    "highres": "assets/highres/181-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_138.webp",
     "thumb": "assets/thumb/181-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_138.webp"
   },
   {
@@ -2363,6 +2544,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/182-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_140.webp",
+    "highres": "assets/highres/182-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_140.webp",
     "thumb": "assets/thumb/182-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_140.webp"
   },
   {
@@ -2376,6 +2558,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/183-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_141.webp",
+    "highres": "assets/highres/183-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_141.webp",
     "thumb": "assets/thumb/183-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_141.webp"
   },
   {
@@ -2389,6 +2572,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/184-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_142.webp",
+    "highres": "assets/highres/184-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_142.webp",
     "thumb": "assets/thumb/184-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_142.webp"
   },
   {
@@ -2402,6 +2586,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/185-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_144.webp",
+    "highres": "assets/highres/185-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_144.webp",
     "thumb": "assets/thumb/185-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_144.webp"
   },
   {
@@ -2415,6 +2600,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/186-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_145.webp",
+    "highres": "assets/highres/186-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_145.webp",
     "thumb": "assets/thumb/186-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_145.webp"
   },
   {
@@ -2428,6 +2614,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/187-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_146.webp",
+    "highres": "assets/highres/187-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_146.webp",
     "thumb": "assets/thumb/187-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_146.webp"
   },
   {
@@ -2441,6 +2628,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/188-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_149.webp",
+    "highres": "assets/highres/188-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_149.webp",
     "thumb": "assets/thumb/188-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_149.webp"
   },
   {
@@ -2454,6 +2642,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/189-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_151.webp",
+    "highres": "assets/highres/189-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_151.webp",
     "thumb": "assets/thumb/189-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_151.webp"
   },
   {
@@ -2467,6 +2656,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/190-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_155.webp",
+    "highres": "assets/highres/190-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_155.webp",
     "thumb": "assets/thumb/190-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_155.webp"
   },
   {
@@ -2480,6 +2670,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/191-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_156.webp",
+    "highres": "assets/highres/191-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_156.webp",
     "thumb": "assets/thumb/191-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_156.webp"
   },
   {
@@ -2493,6 +2684,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/192-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_157.webp",
+    "highres": "assets/highres/192-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_157.webp",
     "thumb": "assets/thumb/192-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_157.webp"
   },
   {
@@ -2506,6 +2698,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/193-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_158.webp",
+    "highres": "assets/highres/193-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_158.webp",
     "thumb": "assets/thumb/193-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_158.webp"
   },
   {
@@ -2519,6 +2712,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/194-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_159.webp",
+    "highres": "assets/highres/194-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_159.webp",
     "thumb": "assets/thumb/194-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_159.webp"
   },
   {
@@ -2532,6 +2726,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/195-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_160.webp",
+    "highres": "assets/highres/195-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_160.webp",
     "thumb": "assets/thumb/195-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_160.webp"
   },
   {
@@ -2545,6 +2740,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/196-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_161.webp",
+    "highres": "assets/highres/196-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_161.webp",
     "thumb": "assets/thumb/196-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_161.webp"
   },
   {
@@ -2558,6 +2754,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/197-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_165.webp",
+    "highres": "assets/highres/197-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_165.webp",
     "thumb": "assets/thumb/197-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_165.webp"
   },
   {
@@ -2571,6 +2768,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/198-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_166.webp",
+    "highres": "assets/highres/198-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_166.webp",
     "thumb": "assets/thumb/198-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_166.webp"
   },
   {
@@ -2584,6 +2782,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/199-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_167.webp",
+    "highres": "assets/highres/199-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_167.webp",
     "thumb": "assets/thumb/199-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_167.webp"
   },
   {
@@ -2597,6 +2796,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/200-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_170.webp",
+    "highres": "assets/highres/200-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_170.webp",
     "thumb": "assets/thumb/200-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_170.webp"
   },
   {
@@ -2610,6 +2810,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/201-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_175.webp",
+    "highres": "assets/highres/201-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_175.webp",
     "thumb": "assets/thumb/201-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_175.webp"
   },
   {
@@ -2623,6 +2824,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/202-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_181.webp",
+    "highres": "assets/highres/202-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_181.webp",
     "thumb": "assets/thumb/202-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_181.webp"
   },
   {
@@ -2636,6 +2838,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/203-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_189.webp",
+    "highres": "assets/highres/203-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_189.webp",
     "thumb": "assets/thumb/203-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_189.webp"
   },
   {
@@ -2649,6 +2852,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/204-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_190.webp",
+    "highres": "assets/highres/204-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_190.webp",
     "thumb": "assets/thumb/204-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_190.webp"
   },
   {
@@ -2662,6 +2866,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/205-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_191.webp",
+    "highres": "assets/highres/205-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_191.webp",
     "thumb": "assets/thumb/205-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_191.webp"
   },
   {
@@ -2675,6 +2880,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/206-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_192.webp",
+    "highres": "assets/highres/206-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_192.webp",
     "thumb": "assets/thumb/206-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_192.webp"
   },
   {
@@ -2688,6 +2894,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/207-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_193.webp",
+    "highres": "assets/highres/207-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_193.webp",
     "thumb": "assets/thumb/207-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_193.webp"
   },
   {
@@ -2701,6 +2908,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/208-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_194.webp",
+    "highres": "assets/highres/208-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_194.webp",
     "thumb": "assets/thumb/208-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_194.webp"
   },
   {
@@ -2714,6 +2922,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/209-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_195.webp",
+    "highres": "assets/highres/209-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_195.webp",
     "thumb": "assets/thumb/209-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_195.webp"
   },
   {
@@ -2727,6 +2936,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/210-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_196.webp",
+    "highres": "assets/highres/210-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_196.webp",
     "thumb": "assets/thumb/210-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_196.webp"
   },
   {
@@ -2740,6 +2950,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/211-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_199.webp",
+    "highres": "assets/highres/211-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_199.webp",
     "thumb": "assets/thumb/211-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_199.webp"
   },
   {
@@ -2753,6 +2964,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/212-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_200.webp",
+    "highres": "assets/highres/212-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_200.webp",
     "thumb": "assets/thumb/212-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_200.webp"
   },
   {
@@ -2766,6 +2978,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/213-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_201.webp",
+    "highres": "assets/highres/213-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_201.webp",
     "thumb": "assets/thumb/213-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_201.webp"
   },
   {
@@ -2779,6 +2992,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/214-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_202.webp",
+    "highres": "assets/highres/214-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_202.webp",
     "thumb": "assets/thumb/214-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_202.webp"
   },
   {
@@ -2792,6 +3006,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/215-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_205.webp",
+    "highres": "assets/highres/215-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_205.webp",
     "thumb": "assets/thumb/215-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_205.webp"
   },
   {
@@ -2805,6 +3020,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/216-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_207.webp",
+    "highres": "assets/highres/216-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_207.webp",
     "thumb": "assets/thumb/216-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_207.webp"
   },
   {
@@ -2818,6 +3034,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/217-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_209.webp",
+    "highres": "assets/highres/217-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_209.webp",
     "thumb": "assets/thumb/217-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_209.webp"
   },
   {
@@ -2831,6 +3048,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/218-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_210.webp",
+    "highres": "assets/highres/218-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_210.webp",
     "thumb": "assets/thumb/218-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_210.webp"
   },
   {
@@ -2844,6 +3062,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/219-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_213.webp",
+    "highres": "assets/highres/219-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_213.webp",
     "thumb": "assets/thumb/219-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_213.webp"
   },
   {
@@ -2857,6 +3076,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/220-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_222.webp",
+    "highres": "assets/highres/220-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_222.webp",
     "thumb": "assets/thumb/220-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_222.webp"
   },
   {
@@ -2870,6 +3090,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/221-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_224.webp",
+    "highres": "assets/highres/221-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_224.webp",
     "thumb": "assets/thumb/221-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_224.webp"
   },
   {
@@ -2883,6 +3104,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/222-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_227.webp",
+    "highres": "assets/highres/222-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_227.webp",
     "thumb": "assets/thumb/222-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_227.webp"
   },
   {
@@ -2896,6 +3118,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/223-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_228.webp",
+    "highres": "assets/highres/223-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_228.webp",
     "thumb": "assets/thumb/223-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_228.webp"
   },
   {
@@ -2909,6 +3132,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/224-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_231.webp",
+    "highres": "assets/highres/224-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_231.webp",
     "thumb": "assets/thumb/224-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_231.webp"
   },
   {
@@ -2922,6 +3146,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/225-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_232.webp",
+    "highres": "assets/highres/225-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_232.webp",
     "thumb": "assets/thumb/225-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_232.webp"
   },
   {
@@ -2935,6 +3160,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/226-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_233.webp",
+    "highres": "assets/highres/226-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_233.webp",
     "thumb": "assets/thumb/226-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_233.webp"
   },
   {
@@ -2948,6 +3174,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/227-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_234.webp",
+    "highres": "assets/highres/227-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_234.webp",
     "thumb": "assets/thumb/227-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_234.webp"
   },
   {
@@ -2961,6 +3188,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/228-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_235.webp",
+    "highres": "assets/highres/228-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_235.webp",
     "thumb": "assets/thumb/228-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_235.webp"
   },
   {
@@ -2974,6 +3202,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/229-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_242.webp",
+    "highres": "assets/highres/229-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_242.webp",
     "thumb": "assets/thumb/229-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_242.webp"
   },
   {
@@ -2987,6 +3216,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/230-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_243.webp",
+    "highres": "assets/highres/230-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_243.webp",
     "thumb": "assets/thumb/230-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_243.webp"
   },
   {
@@ -3000,6 +3230,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/231-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_245.webp",
+    "highres": "assets/highres/231-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_245.webp",
     "thumb": "assets/thumb/231-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_245.webp"
   },
   {
@@ -3013,6 +3244,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/232-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_247.webp",
+    "highres": "assets/highres/232-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_247.webp",
     "thumb": "assets/thumb/232-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_247.webp"
   },
   {
@@ -3026,6 +3258,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/233-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_249.webp",
+    "highres": "assets/highres/233-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_249.webp",
     "thumb": "assets/thumb/233-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_249.webp"
   },
   {
@@ -3039,6 +3272,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/234-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_250.webp",
+    "highres": "assets/highres/234-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_250.webp",
     "thumb": "assets/thumb/234-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_250.webp"
   },
   {
@@ -3052,6 +3286,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/235-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_253.webp",
+    "highres": "assets/highres/235-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_253.webp",
     "thumb": "assets/thumb/235-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_253.webp"
   },
   {
@@ -3065,6 +3300,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/236-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_254.webp",
+    "highres": "assets/highres/236-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_254.webp",
     "thumb": "assets/thumb/236-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_254.webp"
   },
   {
@@ -3078,6 +3314,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/237-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_255.webp",
+    "highres": "assets/highres/237-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_255.webp",
     "thumb": "assets/thumb/237-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_255.webp"
   },
   {
@@ -3091,6 +3328,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/238-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_256.webp",
+    "highres": "assets/highres/238-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_256.webp",
     "thumb": "assets/thumb/238-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_256.webp"
   },
   {
@@ -3104,6 +3342,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/239-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_257.webp",
+    "highres": "assets/highres/239-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_257.webp",
     "thumb": "assets/thumb/239-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_257.webp"
   },
   {
@@ -3117,6 +3356,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/240-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_258.webp",
+    "highres": "assets/highres/240-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_258.webp",
     "thumb": "assets/thumb/240-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_258.webp"
   },
   {
@@ -3130,6 +3370,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/241-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_260.webp",
+    "highres": "assets/highres/241-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_260.webp",
     "thumb": "assets/thumb/241-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_260.webp"
   },
   {
@@ -3143,6 +3384,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/242-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_261.webp",
+    "highres": "assets/highres/242-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_261.webp",
     "thumb": "assets/thumb/242-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_261.webp"
   },
   {
@@ -3156,6 +3398,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/243-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_263.webp",
+    "highres": "assets/highres/243-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_263.webp",
     "thumb": "assets/thumb/243-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_263.webp"
   },
   {
@@ -3169,6 +3412,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/244-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_264.webp",
+    "highres": "assets/highres/244-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_264.webp",
     "thumb": "assets/thumb/244-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_264.webp"
   },
   {
@@ -3182,6 +3426,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/245-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_267.webp",
+    "highres": "assets/highres/245-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_267.webp",
     "thumb": "assets/thumb/245-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_267.webp"
   },
   {
@@ -3195,6 +3440,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/246-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_280.webp",
+    "highres": "assets/highres/246-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_280.webp",
     "thumb": "assets/thumb/246-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_280.webp"
   },
   {
@@ -3208,6 +3454,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/247-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_284.webp",
+    "highres": "assets/highres/247-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_284.webp",
     "thumb": "assets/thumb/247-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_284.webp"
   },
   {
@@ -3221,6 +3468,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/248-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_288.webp",
+    "highres": "assets/highres/248-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_288.webp",
     "thumb": "assets/thumb/248-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_288.webp"
   },
   {
@@ -3234,6 +3482,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/249-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_290.webp",
+    "highres": "assets/highres/249-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_290.webp",
     "thumb": "assets/thumb/249-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_290.webp"
   },
   {
@@ -3247,6 +3496,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/250-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_292.webp",
+    "highres": "assets/highres/250-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_292.webp",
     "thumb": "assets/thumb/250-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_292.webp"
   },
   {
@@ -3260,6 +3510,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/251-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_294.webp",
+    "highres": "assets/highres/251-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_294.webp",
     "thumb": "assets/thumb/251-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_294.webp"
   },
   {
@@ -3273,6 +3524,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/252-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_298.webp",
+    "highres": "assets/highres/252-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_298.webp",
     "thumb": "assets/thumb/252-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_298.webp"
   },
   {
@@ -3286,6 +3538,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/253-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_299.webp",
+    "highres": "assets/highres/253-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_299.webp",
     "thumb": "assets/thumb/253-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_299.webp"
   },
   {
@@ -3299,6 +3552,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/254-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_300.webp",
+    "highres": "assets/highres/254-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_300.webp",
     "thumb": "assets/thumb/254-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_300.webp"
   },
   {
@@ -3312,6 +3566,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/255-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_302.webp",
+    "highres": "assets/highres/255-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_302.webp",
     "thumb": "assets/thumb/255-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_302.webp"
   },
   {
@@ -3325,6 +3580,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/256-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_310.webp",
+    "highres": "assets/highres/256-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_310.webp",
     "thumb": "assets/thumb/256-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_310.webp"
   },
   {
@@ -3338,6 +3594,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/257-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_313.webp",
+    "highres": "assets/highres/257-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_313.webp",
     "thumb": "assets/thumb/257-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_313.webp"
   },
   {
@@ -3351,6 +3608,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/258-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_314.webp",
+    "highres": "assets/highres/258-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_314.webp",
     "thumb": "assets/thumb/258-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_314.webp"
   },
   {
@@ -3364,6 +3622,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/259-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_315.webp",
+    "highres": "assets/highres/259-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_315.webp",
     "thumb": "assets/thumb/259-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_315.webp"
   },
   {
@@ -3377,6 +3636,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/260-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_317.webp",
+    "highres": "assets/highres/260-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_317.webp",
     "thumb": "assets/thumb/260-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_317.webp"
   },
   {
@@ -3390,6 +3650,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/261-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_318.webp",
+    "highres": "assets/highres/261-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_318.webp",
     "thumb": "assets/thumb/261-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_318.webp"
   },
   {
@@ -3403,6 +3664,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/262-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_319.webp",
+    "highres": "assets/highres/262-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_319.webp",
     "thumb": "assets/thumb/262-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_319.webp"
   },
   {
@@ -3416,6 +3678,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/263-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_323.webp",
+    "highres": "assets/highres/263-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_323.webp",
     "thumb": "assets/thumb/263-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_323.webp"
   },
   {
@@ -3429,6 +3692,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/264-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_327.webp",
+    "highres": "assets/highres/264-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_327.webp",
     "thumb": "assets/thumb/264-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_327.webp"
   },
   {
@@ -3442,6 +3706,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/265-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_330.webp",
+    "highres": "assets/highres/265-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_330.webp",
     "thumb": "assets/thumb/265-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_330.webp"
   },
   {
@@ -3455,6 +3720,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/266-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_332.webp",
+    "highres": "assets/highres/266-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_332.webp",
     "thumb": "assets/thumb/266-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_332.webp"
   },
   {
@@ -3468,6 +3734,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/267-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_333.webp",
+    "highres": "assets/highres/267-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_333.webp",
     "thumb": "assets/thumb/267-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_333.webp"
   },
   {
@@ -3481,6 +3748,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/268-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_334.webp",
+    "highres": "assets/highres/268-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_334.webp",
     "thumb": "assets/thumb/268-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_334.webp"
   },
   {
@@ -3494,6 +3762,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/269-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_336.webp",
+    "highres": "assets/highres/269-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_336.webp",
     "thumb": "assets/thumb/269-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_336.webp"
   },
   {
@@ -3507,6 +3776,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/270-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_337.webp",
+    "highres": "assets/highres/270-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_337.webp",
     "thumb": "assets/thumb/270-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_337.webp"
   },
   {
@@ -3520,6 +3790,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/271-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_338.webp",
+    "highres": "assets/highres/271-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_338.webp",
     "thumb": "assets/thumb/271-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_338.webp"
   },
   {
@@ -3533,6 +3804,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/272-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_342.webp",
+    "highres": "assets/highres/272-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_342.webp",
     "thumb": "assets/thumb/272-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_342.webp"
   },
   {
@@ -3546,6 +3818,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/273-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_352.webp",
+    "highres": "assets/highres/273-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_352.webp",
     "thumb": "assets/thumb/273-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_352.webp"
   },
   {
@@ -3559,6 +3832,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/274-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_353.webp",
+    "highres": "assets/highres/274-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_353.webp",
     "thumb": "assets/thumb/274-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_353.webp"
   },
   {
@@ -3572,6 +3846,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/275-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_360.webp",
+    "highres": "assets/highres/275-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_360.webp",
     "thumb": "assets/thumb/275-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_360.webp"
   },
   {
@@ -3585,6 +3860,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/276-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_361.webp",
+    "highres": "assets/highres/276-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_361.webp",
     "thumb": "assets/thumb/276-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_361.webp"
   },
   {
@@ -3598,6 +3874,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/277-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_362.webp",
+    "highres": "assets/highres/277-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_362.webp",
     "thumb": "assets/thumb/277-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_362.webp"
   },
   {
@@ -3611,6 +3888,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/278-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_364.webp",
+    "highres": "assets/highres/278-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_364.webp",
     "thumb": "assets/thumb/278-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_364.webp"
   },
   {
@@ -3624,6 +3902,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/279-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_365.webp",
+    "highres": "assets/highres/279-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_365.webp",
     "thumb": "assets/thumb/279-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_365.webp"
   },
   {
@@ -3637,6 +3916,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/280-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_367.webp",
+    "highres": "assets/highres/280-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_367.webp",
     "thumb": "assets/thumb/280-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_367.webp"
   },
   {
@@ -3650,6 +3930,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/281-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_368.webp",
+    "highres": "assets/highres/281-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_368.webp",
     "thumb": "assets/thumb/281-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_368.webp"
   },
   {
@@ -3663,6 +3944,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/282-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_372.webp",
+    "highres": "assets/highres/282-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_372.webp",
     "thumb": "assets/thumb/282-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_372.webp"
   },
   {
@@ -3676,6 +3958,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/283-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_376.webp",
+    "highres": "assets/highres/283-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_376.webp",
     "thumb": "assets/thumb/283-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_376.webp"
   },
   {
@@ -3689,6 +3972,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/284-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_378.webp",
+    "highres": "assets/highres/284-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_378.webp",
     "thumb": "assets/thumb/284-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_378.webp"
   },
   {
@@ -3702,6 +3986,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/285-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_406.webp",
+    "highres": "assets/highres/285-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_406.webp",
     "thumb": "assets/thumb/285-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_406.webp"
   },
   {
@@ -3715,6 +4000,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/286-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_411.webp",
+    "highres": "assets/highres/286-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_411.webp",
     "thumb": "assets/thumb/286-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_411.webp"
   },
   {
@@ -3728,6 +4014,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/287-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_412.webp",
+    "highres": "assets/highres/287-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_412.webp",
     "thumb": "assets/thumb/287-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_412.webp"
   },
   {
@@ -3741,6 +4028,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/288-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_413.webp",
+    "highres": "assets/highres/288-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_413.webp",
     "thumb": "assets/thumb/288-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_413.webp"
   },
   {
@@ -3754,6 +4042,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/289-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_415.webp",
+    "highres": "assets/highres/289-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_415.webp",
     "thumb": "assets/thumb/289-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_415.webp"
   },
   {
@@ -3767,6 +4056,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/290-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_418.webp",
+    "highres": "assets/highres/290-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_418.webp",
     "thumb": "assets/thumb/290-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_418.webp"
   },
   {
@@ -3780,6 +4070,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/291-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_419.webp",
+    "highres": "assets/highres/291-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_419.webp",
     "thumb": "assets/thumb/291-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_419.webp"
   },
   {
@@ -3793,6 +4084,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/292-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_420.webp",
+    "highres": "assets/highres/292-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_420.webp",
     "thumb": "assets/thumb/292-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_420.webp"
   },
   {
@@ -3806,6 +4098,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/293-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_428.webp",
+    "highres": "assets/highres/293-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_428.webp",
     "thumb": "assets/thumb/293-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_428.webp"
   },
   {
@@ -3819,6 +4112,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/294-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_429.webp",
+    "highres": "assets/highres/294-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_429.webp",
     "thumb": "assets/thumb/294-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_429.webp"
   },
   {
@@ -3832,6 +4126,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/295-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_433.webp",
+    "highres": "assets/highres/295-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_433.webp",
     "thumb": "assets/thumb/295-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_433.webp"
   },
   {
@@ -3845,6 +4140,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/296-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_436.webp",
+    "highres": "assets/highres/296-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_436.webp",
     "thumb": "assets/thumb/296-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_436.webp"
   },
   {
@@ -3858,6 +4154,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/297-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_439.webp",
+    "highres": "assets/highres/297-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_439.webp",
     "thumb": "assets/thumb/297-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_439.webp"
   },
   {
@@ -3871,6 +4168,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/298-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_441.webp",
+    "highres": "assets/highres/298-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_441.webp",
     "thumb": "assets/thumb/298-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_441.webp"
   },
   {
@@ -3884,6 +4182,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/299-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_445.webp",
+    "highres": "assets/highres/299-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_445.webp",
     "thumb": "assets/thumb/299-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_445.webp"
   },
   {
@@ -3897,6 +4196,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/300-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_446.webp",
+    "highres": "assets/highres/300-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_446.webp",
     "thumb": "assets/thumb/300-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_446.webp"
   },
   {
@@ -3910,6 +4210,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/301-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_453.webp",
+    "highres": "assets/highres/301-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_453.webp",
     "thumb": "assets/thumb/301-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_453.webp"
   },
   {
@@ -3923,6 +4224,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/302-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_457.webp",
+    "highres": "assets/highres/302-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_457.webp",
     "thumb": "assets/thumb/302-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_457.webp"
   },
   {
@@ -3936,6 +4238,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/303-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_458.webp",
+    "highres": "assets/highres/303-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_458.webp",
     "thumb": "assets/thumb/303-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_458.webp"
   },
   {
@@ -3949,6 +4252,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/304-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_461.webp",
+    "highres": "assets/highres/304-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_461.webp",
     "thumb": "assets/thumb/304-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_461.webp"
   },
   {
@@ -3962,6 +4266,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/305-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_462.webp",
+    "highres": "assets/highres/305-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_462.webp",
     "thumb": "assets/thumb/305-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_462.webp"
   },
   {
@@ -3975,6 +4280,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/306-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_472.webp",
+    "highres": "assets/highres/306-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_472.webp",
     "thumb": "assets/thumb/306-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_472.webp"
   },
   {
@@ -3988,6 +4294,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/307-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_473.webp",
+    "highres": "assets/highres/307-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_473.webp",
     "thumb": "assets/thumb/307-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_473.webp"
   },
   {
@@ -4001,6 +4308,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/308-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_489.webp",
+    "highres": "assets/highres/308-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_489.webp",
     "thumb": "assets/thumb/308-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_489.webp"
   },
   {
@@ -4014,6 +4322,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/309-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_491.webp",
+    "highres": "assets/highres/309-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_491.webp",
     "thumb": "assets/thumb/309-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_491.webp"
   },
   {
@@ -4027,6 +4336,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/310-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_496.webp",
+    "highres": "assets/highres/310-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_496.webp",
     "thumb": "assets/thumb/310-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_496.webp"
   },
   {
@@ -4040,6 +4350,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/311-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_501.webp",
+    "highres": "assets/highres/311-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_501.webp",
     "thumb": "assets/thumb/311-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_501.webp"
   },
   {
@@ -4053,6 +4364,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/312-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_505.webp",
+    "highres": "assets/highres/312-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_505.webp",
     "thumb": "assets/thumb/312-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_505.webp"
   },
   {
@@ -4066,6 +4378,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/313-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_585.webp",
+    "highres": "assets/highres/313-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_585.webp",
     "thumb": "assets/thumb/313-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_585.webp"
   },
   {
@@ -4079,6 +4392,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/314-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_589.webp",
+    "highres": "assets/highres/314-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_589.webp",
     "thumb": "assets/thumb/314-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_589.webp"
   },
   {
@@ -4092,6 +4406,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/315-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_592.webp",
+    "highres": "assets/highres/315-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_592.webp",
     "thumb": "assets/thumb/315-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_592.webp"
   },
   {
@@ -4105,6 +4420,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/316-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_593.webp",
+    "highres": "assets/highres/316-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_593.webp",
     "thumb": "assets/thumb/316-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_593.webp"
   },
   {
@@ -4118,6 +4434,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/317-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_595.webp",
+    "highres": "assets/highres/317-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_595.webp",
     "thumb": "assets/thumb/317-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_595.webp"
   },
   {
@@ -4131,6 +4448,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/318-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_596.webp",
+    "highres": "assets/highres/318-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_596.webp",
     "thumb": "assets/thumb/318-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_596.webp"
   },
   {
@@ -4144,6 +4462,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/319-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_601.webp",
+    "highres": "assets/highres/319-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_601.webp",
     "thumb": "assets/thumb/319-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_601.webp"
   },
   {
@@ -4157,6 +4476,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/320-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_602.webp",
+    "highres": "assets/highres/320-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_602.webp",
     "thumb": "assets/thumb/320-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_602.webp"
   },
   {
@@ -4170,6 +4490,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/321-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_607.webp",
+    "highres": "assets/highres/321-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_607.webp",
     "thumb": "assets/thumb/321-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_607.webp"
   },
   {
@@ -4183,6 +4504,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/322-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_608.webp",
+    "highres": "assets/highres/322-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_608.webp",
     "thumb": "assets/thumb/322-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_608.webp"
   },
   {
@@ -4196,6 +4518,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/323-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_613.webp",
+    "highres": "assets/highres/323-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_613.webp",
     "thumb": "assets/thumb/323-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_613.webp"
   },
   {
@@ -4209,6 +4532,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/324-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_639.webp",
+    "highres": "assets/highres/324-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_639.webp",
     "thumb": "assets/thumb/324-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_639.webp"
   },
   {
@@ -4222,6 +4546,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/325-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_640.webp",
+    "highres": "assets/highres/325-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_640.webp",
     "thumb": "assets/thumb/325-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_640.webp"
   },
   {
@@ -4235,6 +4560,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/326-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_641.webp",
+    "highres": "assets/highres/326-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_641.webp",
     "thumb": "assets/thumb/326-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_641.webp"
   },
   {
@@ -4248,6 +4574,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/327-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_642.webp",
+    "highres": "assets/highres/327-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_642.webp",
     "thumb": "assets/thumb/327-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_642.webp"
   },
   {
@@ -4261,6 +4588,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/328-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_644.webp",
+    "highres": "assets/highres/328-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_644.webp",
     "thumb": "assets/thumb/328-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_644.webp"
   },
   {
@@ -4274,6 +4602,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/329-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_649.webp",
+    "highres": "assets/highres/329-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_649.webp",
     "thumb": "assets/thumb/329-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_649.webp"
   },
   {
@@ -4287,6 +4616,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/330-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_655.webp",
+    "highres": "assets/highres/330-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_655.webp",
     "thumb": "assets/thumb/330-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_655.webp"
   },
   {
@@ -4300,6 +4630,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/331-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_656.webp",
+    "highres": "assets/highres/331-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_656.webp",
     "thumb": "assets/thumb/331-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_656.webp"
   },
   {
@@ -4313,6 +4644,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/332-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_669.webp",
+    "highres": "assets/highres/332-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_669.webp",
     "thumb": "assets/thumb/332-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_669.webp"
   },
   {
@@ -4326,6 +4658,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/333-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_728.webp",
+    "highres": "assets/highres/333-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_728.webp",
     "thumb": "assets/thumb/333-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_728.webp"
   },
   {
@@ -4339,6 +4672,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/334-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_729.webp",
+    "highres": "assets/highres/334-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_729.webp",
     "thumb": "assets/thumb/334-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_729.webp"
   },
   {
@@ -4352,6 +4686,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 366,
     "full": "assets/full/335-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_734.webp",
+    "highres": "assets/highres/335-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_734.webp",
     "thumb": "assets/thumb/335-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_734.webp"
   },
   {
@@ -4365,6 +4700,7 @@ window.SHOTS = [
     "thumbWidth": 512,
     "thumbHeight": 717,
     "full": "assets/full/336-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_735.webp",
+    "highres": "assets/highres/336-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_735.webp",
     "thumb": "assets/thumb/336-TANJA_SUBOTIC_JUNE_2026_STILL_LANDSCAPE_735.webp"
   }
 ];

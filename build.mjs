@@ -1,13 +1,19 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { createWriteStream, existsSync } from "node:fs";
-import { basename } from "node:path";
+import { basename, join } from "node:path";
+import { spawn } from "node:child_process";
 import { pipeline } from "node:stream/promises";
+import { fileURLToPath } from "node:url";
 
 const sourcePath = "/tmp/wt_283.txt";
 const root = new URL("./", import.meta.url);
 const fullDir = new URL("./assets/full/", root);
+const highresDir = new URL("./assets/highres/", root);
 const thumbDir = new URL("./assets/thumb/", root);
 const dataDir = new URL("./assets/data/", root);
+const originalsRoot = process.env.WT_ORIGINALS_DIR || "/tmp/wt_highres_extract";
+const highresMaxEdge = Number(process.env.WT_HIGHRES_MAX_EDGE || 2400);
+const highresQuality = Number(process.env.WT_HIGHRES_QUALITY || 82);
 
 const stateUrl = "https://kvdb.io/GAEki9odowZhgkjtga5tr2/review-state";
 
@@ -34,6 +40,37 @@ async function download(url, fileUrl) {
     throw new Error(`Download failed ${response.status}: ${url}`);
   }
   await pipeline(response.body, createWriteStream(fileUrl));
+}
+
+async function runImageTool(command, args) {
+  await new Promise((resolve, reject) => {
+    const child = spawn(command, args, { stdio: "ignore" });
+    child.on("error", reject);
+    child.on("exit", (code) => {
+      if (code === 0) resolve();
+      else reject(new Error(`${command} exited ${code}`));
+    });
+  });
+}
+
+async function makeHighres(inputPath, outputUrl) {
+  if (existsSync(outputUrl)) return true;
+  const outputPath = fileURLToPath(outputUrl);
+  try {
+    await runImageTool("magick", [
+      inputPath,
+      "-auto-orient",
+      "-resize",
+      `${highresMaxEdge}x${highresMaxEdge}>`,
+      "-quality",
+      String(highresQuality),
+      outputPath
+    ]);
+    return true;
+  } catch (error) {
+    console.warn(`Could not create high-res image for ${inputPath}: ${error.message}`);
+    return false;
+  }
 }
 
 async function mapLimit(items, limit, worker) {
@@ -774,7 +811,7 @@ function updateLightbox() {
   const shot = filtered[activeIndex] || filtered[0];
   if (!shot) return;
   const data = itemState(shot.id);
-  els.lightboxImage.src = shot.full;
+  els.lightboxImage.src = shot.highres || shot.full;
   els.lightboxImage.alt = shotLabel(shot);
   els.shotCounter.textContent = \`\${activeIndex + 1} of \${filtered.length}\`;
   els.shotTitle.textContent = shotLabel(shot);
@@ -931,6 +968,7 @@ init();
 
 async function main() {
   await mkdir(fullDir, { recursive: true });
+  await mkdir(highresDir, { recursive: true });
   await mkdir(thumbDir, { recursive: true });
   await mkdir(dataDir, { recursive: true });
 
@@ -944,6 +982,7 @@ async function main() {
     const id = file.id;
     const short = `${String(index + 1).padStart(3, "0")}-${slug(filename)}`;
     const fullName = `${short}.webp`;
+    const highresName = `${short}.webp`;
     const thumbName = `${short}.webp`;
     const meta = file.preview.originalFileMetadata || {};
     return {
@@ -957,10 +996,13 @@ async function main() {
       thumbWidth: meta.width && meta.height ? Math.round(512) : 512,
       thumbHeight: meta.width && meta.height ? Math.max(1, Math.round(512 * meta.height / meta.width)) : 512,
       full: `assets/full/${fullName}`,
+      highres: `assets/highres/${highresName}`,
       thumb: `assets/thumb/${thumbName}`,
       fullUrl: file.preview.url,
       thumbUrl: file.preview.thumbnailUrl,
       fullFile: new URL(`./assets/full/${fullName}`, root),
+      highresFile: new URL(`./assets/highres/${highresName}`, root),
+      originalFile: join(originalsRoot, file.name),
       thumbFile: new URL(`./assets/thumb/${thumbName}`, root)
     };
   });
@@ -969,10 +1011,17 @@ async function main() {
   await mapLimit(shots, 8, async (shot, index) => {
     await download(shot.fullUrl, shot.fullFile);
     await download(shot.thumbUrl, shot.thumbFile);
+    if (existsSync(shot.originalFile)) {
+      const highresReady = await makeHighres(shot.originalFile, shot.highresFile);
+      if (!highresReady) delete shot.highres;
+    } else {
+      console.warn(`Missing original file for ${shot.name}; lightbox will use preview fallback`);
+      delete shot.highres;
+    }
     if (index % 20 === 0) console.log(`Downloaded ${index}/${shots.length}`);
   });
 
-  const publicShots = shots.map(({ fullUrl, thumbUrl, fullFile, thumbFile, ...shot }) => shot);
+  const publicShots = shots.map(({ fullUrl, thumbUrl, fullFile, highresFile, originalFile, thumbFile, ...shot }) => shot);
   await writeFile(new URL("./index.html", root), appHtml());
   await writeFile(new URL("./styles.css", root), stylesCss());
   await writeFile(new URL("./app.js", root), appJs());
@@ -982,7 +1031,7 @@ async function main() {
   );
   await writeFile(
     new URL("./README.md", root),
-    `# Tanja June 2026 Shot Review\n\nExternally shareable shot-review app for LOW_RES_WIDE_SELECT.\n\n- ${publicShots.length} images\n- Portrait: ${publicShots.filter((shot) => shot.folder === "LOW_RES_PORTRAIT").length}\n- Still: ${publicShots.filter((shot) => shot.folder === "LOW_RES_STILL").length}\n- Shared review state: ${stateUrl}\n\nThe app saves approve / maybe / reject decisions and notes to shared review state, with local backup and export options.\n`
+    `# Tanja June 2026 Shot Review\n\nExternally shareable shot-review app for LOW_RES_WIDE_SELECT.\n\n- ${publicShots.length} images\n- Portrait: ${publicShots.filter((shot) => shot.folder === "LOW_RES_PORTRAIT").length}\n- Still: ${publicShots.filter((shot) => shot.folder === "LOW_RES_STILL").length}\n- High-resolution opened images: up to ${highresMaxEdge}px on the long edge\n- Shared review state: ${stateUrl}\n\nThe app saves approve / maybe / reject decisions and notes to shared review state, with local backup and export options.\n`
   );
   console.log("Build complete");
 }

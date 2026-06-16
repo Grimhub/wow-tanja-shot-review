@@ -246,7 +246,7 @@ function updateLightbox() {
   const shot = filtered[activeIndex] || filtered[0];
   if (!shot) return;
   const data = itemState(shot.id);
-  els.lightboxImage.src = shot.full;
+  els.lightboxImage.src = shot.highres || shot.full;
   els.lightboxImage.alt = shotLabel(shot);
   els.shotCounter.textContent = `${activeIndex + 1} of ${filtered.length}`;
   els.shotTitle.textContent = shotLabel(shot);

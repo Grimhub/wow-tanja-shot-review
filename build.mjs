@@ -163,7 +163,7 @@ function appHtml() {
       <p class="counter" id="shotCounter"></p>
       <h2 id="shotTitle"></h2>
       <p class="meta" id="shotMeta"></p>
-      <a class="image-link" id="openHighres" href="#" target="_blank" rel="noopener">Open high-res</a>
+      <button class="image-link" id="openHighres" type="button">Open high-res</button>
       <div class="decision-buttons">
         <button type="button" data-status="approved">Approve</button>
         <button type="button" data-status="maybe">Maybe</button>
@@ -479,14 +479,16 @@ textarea {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  width: 100%;
   min-height: 36px;
   border: 1px solid var(--line);
   border-radius: 6px;
   color: var(--ink);
   background: var(--soft);
-  text-decoration: none;
+  font-family: inherit;
   font-size: 13px;
   font-weight: 700;
+  cursor: pointer;
 }
 
 .image-link:hover {
@@ -832,10 +834,10 @@ function updateLightbox() {
   const shot = filtered[activeIndex] || filtered[0];
   if (!shot) return;
   const data = itemState(shot.id);
-  const imageSrc = shot.highres || shot.full;
+  const imageSrc = highresSrc(shot);
   els.lightboxImage.src = imageSrc;
   els.lightboxImage.alt = shotLabel(shot);
-  els.openHighres.href = imageSrc;
+  els.openHighres.dataset.href = imageSrc;
   els.openHighres.textContent = shot.highres ? "Open high-res" : "Open image";
   els.shotCounter.textContent = \`\${activeIndex + 1} of \${filtered.length}\`;
   els.shotTitle.textContent = shotLabel(shot);
@@ -854,6 +856,21 @@ function moveLightbox(direction) {
 
 function activeShot() {
   return filtered[activeIndex];
+}
+
+function highresSrc(shot) {
+  return shot.highres || shot.full;
+}
+
+function openHighresImage() {
+  const shot = activeShot();
+  if (!shot) return;
+  const opened = window.open(highresSrc(shot), "_blank");
+  if (opened) {
+    opened.opener = null;
+  } else {
+    window.location.assign(highresSrc(shot));
+  }
 }
 
 function exportText() {
@@ -956,12 +973,8 @@ els.reviewerInput.addEventListener("input", () => {
 });
 
 els.closeLightbox.addEventListener("click", () => els.lightbox.close());
-els.lightboxImage.addEventListener("click", () => {
-  const shot = activeShot();
-  if (!shot) return;
-  const opened = window.open(shot.highres || shot.full, "_blank", "noopener");
-  if (opened) opened.opener = null;
-});
+els.openHighres.addEventListener("click", openHighresImage);
+els.lightboxImage.addEventListener("click", openHighresImage);
 els.prevShot.addEventListener("click", () => moveLightbox(-1));
 els.nextShot.addEventListener("click", () => moveLightbox(1));
 els.exportBtn.addEventListener("click", exportText);

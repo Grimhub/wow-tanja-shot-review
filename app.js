@@ -25,6 +25,7 @@ const els = {
   shotCounter: document.getElementById("shotCounter"),
   shotTitle: document.getElementById("shotTitle"),
   shotMeta: document.getElementById("shotMeta"),
+  openHighres: document.getElementById("openHighres"),
   lightboxNote: document.getElementById("lightboxNote"),
   saveHint: document.getElementById("saveHint"),
   closeLightbox: document.getElementById("closeLightbox"),
@@ -246,8 +247,11 @@ function updateLightbox() {
   const shot = filtered[activeIndex] || filtered[0];
   if (!shot) return;
   const data = itemState(shot.id);
-  els.lightboxImage.src = shot.highres || shot.full;
+  const imageSrc = shot.highres || shot.full;
+  els.lightboxImage.src = imageSrc;
   els.lightboxImage.alt = shotLabel(shot);
+  els.openHighres.href = imageSrc;
+  els.openHighres.textContent = shot.highres ? "Open high-res" : "Open image";
   els.shotCounter.textContent = `${activeIndex + 1} of ${filtered.length}`;
   els.shotTitle.textContent = shotLabel(shot);
   els.shotMeta.textContent = `${shot.folder.replace("LOW_RES_", "")} · ${shot.width} x ${shot.height} source · ${statusLabels[data.status || ""]}`;
@@ -367,6 +371,12 @@ els.reviewerInput.addEventListener("input", () => {
 });
 
 els.closeLightbox.addEventListener("click", () => els.lightbox.close());
+els.lightboxImage.addEventListener("click", () => {
+  const shot = activeShot();
+  if (!shot) return;
+  const opened = window.open(shot.highres || shot.full, "_blank", "noopener");
+  if (opened) opened.opener = null;
+});
 els.prevShot.addEventListener("click", () => moveLightbox(-1));
 els.nextShot.addEventListener("click", () => moveLightbox(1));
 els.exportBtn.addEventListener("click", exportText);

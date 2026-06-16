@@ -163,6 +163,7 @@ function appHtml() {
       <p class="counter" id="shotCounter"></p>
       <h2 id="shotTitle"></h2>
       <p class="meta" id="shotMeta"></p>
+      <a class="image-link" id="openHighres" href="#" target="_blank" rel="noopener">Open high-res</a>
       <div class="decision-buttons">
         <button type="button" data-status="approved">Approve</button>
         <button type="button" data-status="maybe">Maybe</button>
@@ -416,8 +417,8 @@ textarea {
 }
 
 .lightbox {
-  width: min(1360px, calc(100vw - 32px));
-  height: min(850px, calc(100vh - 32px));
+  width: min(1600px, calc(100vw - 24px));
+  height: min(960px, calc(100vh - 24px));
   padding: 0;
   border: 0;
   border-radius: 8px;
@@ -432,7 +433,7 @@ textarea {
 
 .lightbox[open] {
   display: grid;
-  grid-template-columns: 52px minmax(0, 1fr) 360px 52px;
+  grid-template-columns: 48px minmax(0, 1fr) 320px 48px;
 }
 
 .lightbox figure {
@@ -448,6 +449,7 @@ textarea {
   max-width: 100%;
   max-height: 100%;
   object-fit: contain;
+  cursor: zoom-in;
 }
 
 .review-panel {
@@ -471,6 +473,24 @@ textarea {
   margin: 0;
   color: var(--muted);
   font-size: 13px;
+}
+
+.image-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 36px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  color: var(--ink);
+  background: var(--soft);
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.image-link:hover {
+  border-color: var(--accent);
 }
 
 .decision-buttons {
@@ -590,6 +610,7 @@ const els = {
   shotCounter: document.getElementById("shotCounter"),
   shotTitle: document.getElementById("shotTitle"),
   shotMeta: document.getElementById("shotMeta"),
+  openHighres: document.getElementById("openHighres"),
   lightboxNote: document.getElementById("lightboxNote"),
   saveHint: document.getElementById("saveHint"),
   closeLightbox: document.getElementById("closeLightbox"),
@@ -811,8 +832,11 @@ function updateLightbox() {
   const shot = filtered[activeIndex] || filtered[0];
   if (!shot) return;
   const data = itemState(shot.id);
-  els.lightboxImage.src = shot.highres || shot.full;
+  const imageSrc = shot.highres || shot.full;
+  els.lightboxImage.src = imageSrc;
   els.lightboxImage.alt = shotLabel(shot);
+  els.openHighres.href = imageSrc;
+  els.openHighres.textContent = shot.highres ? "Open high-res" : "Open image";
   els.shotCounter.textContent = \`\${activeIndex + 1} of \${filtered.length}\`;
   els.shotTitle.textContent = shotLabel(shot);
   els.shotMeta.textContent = \`\${shot.folder.replace("LOW_RES_", "")} · \${shot.width} x \${shot.height} source · \${statusLabels[data.status || ""]}\`;
@@ -932,6 +956,12 @@ els.reviewerInput.addEventListener("input", () => {
 });
 
 els.closeLightbox.addEventListener("click", () => els.lightbox.close());
+els.lightboxImage.addEventListener("click", () => {
+  const shot = activeShot();
+  if (!shot) return;
+  const opened = window.open(shot.highres || shot.full, "_blank", "noopener");
+  if (opened) opened.opener = null;
+});
 els.prevShot.addEventListener("click", () => moveLightbox(-1));
 els.nextShot.addEventListener("click", () => moveLightbox(1));
 els.exportBtn.addEventListener("click", exportText);

@@ -112,15 +112,6 @@ function appHtml() {
       <button id="reloadBtn" type="button">Reload shared review</button>
     </section>
 
-    <section class="quick-help" aria-label="Keyboard shortcuts">
-      <strong>Shortcuts in large view:</strong>
-      <span>A approve</span>
-      <span>M maybe</span>
-      <span>R reject</span>
-      <span>Arrow keys move</span>
-      <span>Esc closes</span>
-    </section>
-
     <section class="grid" id="grid" aria-label="Shot grid"></section>
     <p class="empty" id="emptyState" hidden>No shots match these filters.</p>
   </main>
@@ -298,22 +289,6 @@ input, select, textarea {
 textarea {
   resize: vertical;
   line-height: 1.45;
-}
-
-.quick-help {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  color: var(--muted);
-  font-size: 13px;
-  margin: 0 0 18px;
-}
-
-.quick-help span {
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  padding: 3px 9px;
-  background: var(--soft);
 }
 
 .grid {

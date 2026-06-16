@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tanja June 2026 Shot Review</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='10' fill='%23235f56'/%3E%3Cpath d='M18 18h28v28H18z' fill='none' stroke='white' stroke-width='4'/%3E%3Cpath d='M24 38l6-7 5 5 5-8 6 10' fill='none' stroke='white' stroke-width='4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <p class="eyebrow">LOW_RES_WIDE_SELECT</p>
+      <h1>Tanja June 2026 Shot Review</h1>
+    </div>
+    <div class="cloud-status" id="cloudStatus">Loading shared review...</div>
+  </header>
+
+  <main>
+    <section class="summary" aria-label="Review summary">
+      <div class="stat"><span id="totalCount">336</span><small>Total</small></div>
+      <div class="stat approved"><span id="approvedCount">0</span><small>Approved</small></div>
+      <div class="stat maybe"><span id="maybeCount">0</span><small>Maybe</small></div>
+      <div class="stat rejected"><span id="rejectedCount">0</span><small>Rejected</small></div>
+      <div class="stat noted"><span id="notedCount">0</span><small>Notes</small></div>
+    </section>
+
+    <section class="controls" aria-label="Review controls">
+      <label>
+        Folder
+        <select id="folderFilter">
+          <option value="all">All folders</option>
+          <option value="LOW_RES_PORTRAIT">Portrait</option>
+          <option value="LOW_RES_STILL">Still</option>
+        </select>
+      </label>
+      <label>
+        Status
+        <select id="statusFilter">
+          <option value="all">All statuses</option>
+          <option value="unreviewed">Unreviewed</option>
+          <option value="approved">Approved</option>
+          <option value="maybe">Maybe</option>
+          <option value="rejected">Rejected</option>
+          <option value="noted">Has note</option>
+        </select>
+      </label>
+      <label class="search">
+        Search filename
+        <input id="searchInput" type="search" placeholder="SHOT_01_009 or OW9A...">
+      </label>
+      <label>
+        Columns
+        <input id="columnSlider" type="range" min="2" max="7" value="4">
+      </label>
+      <label>
+        Reviewer
+        <input id="reviewerInput" type="text" placeholder="Your name">
+      </label>
+      <button id="exportBtn" type="button">Export decisions</button>
+      <button id="backupBtn" type="button">Backup JSON</button>
+      <button id="reloadBtn" type="button">Reload shared review</button>
+    </section>
+
+    <section class="quick-help" aria-label="Keyboard shortcuts">
+      <strong>Shortcuts in large view:</strong>
+      <span>A approve</span>
+      <span>M maybe</span>
+      <span>R reject</span>
+      <span>Arrow keys move</span>
+      <span>Esc closes</span>
+    </section>
+
+    <section class="grid" id="grid" aria-label="Shot grid"></section>
+    <p class="empty" id="emptyState" hidden>No shots match these filters.</p>
+  </main>
+
+  <dialog class="lightbox" id="lightbox">
+    <button class="icon close" id="closeLightbox" aria-label="Close large view">&times;</button>
+    <button class="icon prev" id="prevShot" aria-label="Previous shot">‹</button>
+    <figure>
+      <img id="lightboxImage" alt="">
+    </figure>
+    <aside class="review-panel">
+      <p class="counter" id="shotCounter"></p>
+      <h2 id="shotTitle"></h2>
+      <p class="meta" id="shotMeta"></p>
+      <div class="decision-buttons">
+        <button type="button" data-status="approved">Approve</button>
+        <button type="button" data-status="maybe">Maybe</button>
+        <button type="button" data-status="rejected">Reject</button>
+        <button type="button" data-status="">Clear</button>
+      </div>
+      <label class="note-label">
+        Notes
+        <textarea id="lightboxNote" rows="7" placeholder="Write thoughts, retouch notes, usage ideas, or why this is approved/rejected."></textarea>
+      </label>
+      <p class="save-hint" id="saveHint">Notes save automatically.</p>
+    </aside>
+    <button class="icon next" id="nextShot" aria-label="Next shot">›</button>
+  </dialog>
+
+  <script src="assets/data/shots.js"></script>
+  <script>
+    window.SHOT_REVIEW_CONFIG = {
+      stateUrl: "https://kvdb.io/GAEki9odowZhgkjtga5tr2/review-state"
+    };
+  </script>
+  <script src="app.js"></script>
+</body>
+</html>
